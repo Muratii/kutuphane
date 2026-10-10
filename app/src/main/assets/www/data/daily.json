@@ -1,0 +1,16 @@
+{"items":[
+{"en":"How's it going?","tr":"Nasıl gidiyor?","use":"Arkadaşlarla ve iş arkadaşlarıyla samimi selam.","ex":["Hey Sam, how's it going?","Selam Sam, nasıl gidiyor?"],"topic":"conv-greetings"},
+{"en":"Take care.","tr":"Kendine iyi bak.","use":"Ayrılırken sıcak bir veda.","ex":["It was great to see you. Take care!","Seni görmek harikaydı. Kendine iyi bak!"],"topic":"conv-greetings"},
+{"en":"No worries.","tr":"Sorun değil / dert etme.","use":"Özrü ya da teşekkürü samimi karşılamak.","ex":["— Sorry I'm late. — No worries.","— Geç kaldığım için özür. — Sorun değil."],"topic":"conv-thanks-apology"},
+{"en":"I really appreciate it.","tr":"Gerçekten minnettarım.","use":"İş yerinde içten teşekkür.","ex":["I really appreciate your help with the report.","Rapordaki yardımın için gerçekten minnettarım."],"topic":"conv-thanks-apology"},
+{"en":"Could you say that again, please?","tr":"Bunu tekrar söyler misiniz lütfen?","use":"Anlamadığında nazik rica.","ex":["Could you say that again, please? I missed the last part.","Bunu tekrar söyler misiniz lütfen? Son kısmı kaçırdım."],"topic":"conv-requests"},
+{"en":"I don't mind.","tr":"Fark etmez / bir sakıncası yok.","use":"Seçim yaparken esnek olmak.","ex":["— Pizza or pasta? — I don't mind.","— Pizza mı makarna mı? — Fark etmez."],"topic":"conv-opinion-advice"},
+{"en":"Why don't we...?","tr":"...yapsak nasıl olur?","use":"Birlikte yapılacak öneri sunmak.","ex":["Why don't we meet at six?","Altıda buluşsak nasıl olur?"],"topic":"conv-opinion-advice"},
+{"en":"Enjoy your meal!","tr":"Afiyet olsun!","use":"Yemek servisi ya da yemekten önce.","ex":["Here's your soup. Enjoy your meal!","İşte çorbanız. Afiyet olsun!"],"topic":"conv-everyday-wishes"},
+{"en":"Bless you!","tr":"Çok yaşa!","use":"Biri hapşırdığında.","ex":["Achoo! — Bless you!","Hapşu! — Çok yaşa!"],"topic":"conv-everyday-wishes"},
+{"en":"Get well soon!","tr":"Geçmiş olsun!","use":"Hasta bir arkadaşa.","ex":["I'm sorry you're sick. Get well soon!","Hasta olduğuna üzüldüm. Geçmiş olsun!"],"topic":"conv-everyday-wishes"},
+{"en":"Congratulations on your new job!","tr":"Yeni işin için tebrikler!","use":"Başarıyı kutlamak.","ex":["Congratulations on your promotion!","Terfin için tebrikler!"],"topic":"conv-occasions"},
+{"en":"Have a safe trip!","tr":"İyi yolculuklar!","use":"Birini uğurlarken.","ex":["Have a safe trip and text me when you land.","İyi yolculuklar, indiğinde bana yaz."],"topic":"conv-occasions"},
+{"en":"Take your time.","tr":"Acele etme.","use":"Birine zaman tanımak.","ex":["Take your time. There's no rush.","Acele etme. Telaş yok."],"topic":"conv-reactions"},
+{"en":"Are you serious?","tr":"Ciddi misin?","use":"Şaşırınca.","ex":["You got the job? Are you serious?","İşi aldın mı? Ciddi misin?"],"topic":"conv-reactions"}
+]}

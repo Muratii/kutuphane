@@ -1,0 +1,43 @@
+{
+"id":"conv-requests","tr":"Rica, İzin, Yardım ve Anlamadığını Söyleme","en":"Requests, Permission and Asking for Help","level":"A1","cat":"daily-ask","o":1,
+"short":"Kibarca yardım istemek, izin almak, tekrar rica etmek, yavaş konuşmasını istemek, kelime sormak.",
+"terms":["rica etmek","yardım istemek","izin istemek","tekrar etmesini rica","yavaş konuş","anlamadım","kelime anlamı sorma","nasıl söylenir","could you help me","can you repeat","I don't understand","what does mean","how do you say","kibarca yardım istemek","would you mind","may I","excuse me","explain","açıklama istemek"],
+"why":"Dil öğrenirken ve yabancı biriyle konuşurken en işe yarayan cümleler bunlardır: 'Yardım eder misiniz?', 'Tekrar edebilir misiniz?', 'Bu ne demek?'. Bu kalıplarla konuşma kopmaz, karşı taraf seni anlamaya çalışır.",
+"explain":[
+"Rica için can/could/would kullanılır: Can you...? (samimi), Could you...? (kibar), Would you mind + V-ing...? (çok kibar). 'Please' kibarlığı artırır; sona veya Could you ile birlikte konabilir.",
+"İzin isterken Can I...? / Could I...? / May I...? kullanılır. May I resmî, Could I kibar, Can I samimi ve yaygındır.",
+"Anlamadığın zaman yardım iste: 'Sorry, I didn't catch that.' (duymadım/anlamadım), 'Could you say that again?' (tekrar eder misin?), 'Could you speak more slowly?' (daha yavaş konuşur musun?). Bunlar yetersizlik değil, iletişim becerisidir."],
+"phrases":[
+{"en":"Could you help me, please?","tr":"Bana yardım edebilir misiniz lütfen?","use":"Bir konuda yardım rica ederken.","reg":"nötr / kibar","ex":["Could you help me with this form, please?","Bu formu doldururken bana yardım edebilir misiniz lütfen?"],"note":"Can you help me? daha samimi."},
+{"en":"Do you need any help? / Can I help you?","tr":"Yardıma ihtiyacınız var mı? / Size yardım edebilir miyim?","use":"Yardım teklif etmek; mağaza ve hizmet ortamı.","reg":"nötr","ex":["Do you need any help with those bags?","O çantalar için yardıma ihtiyacın var mı?"],"note":"Yardım teklifini reddetmek için 'No, thanks. I'm fine.' de."},
+{"en":"Could I ask you a question? / May I...? / Is it okay if I...?","tr":"Bir şey sorabilir miyim? / ...yapabilir miyim? / ...yapmamın sakıncası var mı?","use":"İzin istemek.","reg":"nötr / resmî","ex":["Is it okay if I open the window?","Pencereyi açmamın sakıncası var mı?"],"note":"May I resmî; Is it okay if I...? samimi ve nezaket dolu."},
+{"en":"Would you mind opening the window?","tr":"Pencereyi açmanın sakıncası var mı? / Pencereyi açar mısınız?","use":"Çok kibar rica.","reg":"nötr / kibar","ex":["Would you mind speaking a bit more quietly?","Biraz daha sessiz konuşur musunuz?"],"note":"Would you mind...? kalıbında olumlu cevap 'Not at all' (hayır, sakıncası yok) demektir; 'Yes' dersen kabul etmemiş olursun."},
+{"en":"Sorry, I didn't catch that.","tr":"Pardon, ne dediğinizi anlayamadım / duyamadım.","use":"Söylenen şeyi anlamadığında.","reg":"nötr","ex":["Sorry, I didn't catch your name.","Pardon, adınızı duyamadım."],"note":"'Pardon?' (UK) / 'Excuse me?' (US) da kullanılır."},
+{"en":"Could you say that again, please? / Could you repeat that?","tr":"Bunu tekrar söyler misiniz lütfen?","use":"Tekrar rica etmek.","reg":"nötr / kibar","ex":["Could you repeat that, please? I didn't understand the last part.","Bunu tekrar eder misiniz lütfen? Son kısmı anlamadım."],"note":"'What?' tek başına kaba duyulabilir."},
+{"en":"Could you speak more slowly, please?","tr":"Biraz daha yavaş konuşabilir misiniz lütfen?","use":"Çok hızlı konuşulduğunda.","reg":"nötr / kibar","ex":["Could you speak a little more slowly? My English isn't very good yet.","Biraz daha yavaş konuşabilir misiniz? İngilizcem henüz çok iyi değil."],"note":"Yavaş konuşmaları tekrar ederken ek olarak 'Thank you, that's much clearer' demek nazik."},
+{"en":"What does ... mean? / How do you say ... in English?","tr":"... ne demek? / ... İngilizcede nasıl söylenir?","use":"Kelime anlamı ya da çeviri sormak.","reg":"nötr","ex":["What does 'appointment' mean?","'Appointment' ne demek?"],"note":"Türkçe karşılığı sorarken 'How do you say randevu in English?' dersin."},
+{"en":"I don't understand. Could you explain that?","tr":"Anlamıyorum. Bunu açıklayabilir misiniz?","use":"Konuyu anlamadığında açıklama istemek.","reg":"nötr","ex":["I'm sorry, I don't understand. Could you explain that in a simpler way?","Üzgünüm, anlamıyorum. Bunu daha basit anlatabilir misiniz?"],"note":"'Could you give me an example?' da açıklama istemek için çok işe yarar."}],
+"dialogs":[{"h":"Bankada yardım isteme","l":[
+["Müşteri","Excuse me, could you help me, please?","Pardon, bana yardım edebilir misiniz lütfen?"],
+["Görevli","Of course. What can I do for you?","Tabii. Sizin için ne yapabilirim?"],
+["Müşteri","I'd like to open an account, but I don't understand this form.","Hesap açmak istiyorum ama bu formu anlamıyorum."],
+["Görevli","No problem. Which part is unclear?","Sorun değil. Hangi kısım belirsiz?"],
+["Müşteri","What does 'beneficiary' mean?","'Beneficiary' ne demek?"],
+["Görevli","It's the person who receives the money.","Parayı alacak olan kişi."],
+["Müşteri","Thank you. Could you speak a bit more slowly, please?","Teşekkürler. Biraz daha yavaş konuşabilir misiniz lütfen?"]]}],
+"compare":[["can-could","Rica ve izin kalıplarının dilbilgisi arkasında can/could vardır."],["should","Tavsiye için should, rica için could kullanılır."],["conv-thanks-apology","Rica ettikten sonra 'Thank you' denir."]],
+"mistakes":[
+["Give me a pen.","Could you give me a pen, please?","Emir kipi kaba duyulabilir; can/could ve please kullan."],
+["What?","Sorry? / Pardon? / Could you say that again?","Tek başına 'What?' kabaca duyulur."],
+["Would you mind opening the window? — Yes, of course. (kabul demek istiyorsan)","Would you mind...? — Not at all. / Sure.","Mind sorusunda 'Yes' = 'evet, sakıncası var'."],
+["How can I say 'apple' in English? (kelimeyi biliyorsan)","How do you say 'elma' in English?","Kalıp 'How do you say...?' biçimindedir."]],
+"ex":[
+{"t":"choice","q":"Hangisi en kibar rica biçimidir?","o":["Help me.","Can you help me?","Could you help me, please?","You help me."],"a":2,"e":"Could you...? please ile en kibar seçenek."},
+{"t":"choice","q":"Anlamadığında hangisini söylersin?","o":["What?","Sorry, I didn't catch that.","Speak!","No English."],"a":1,"e":"Sorry, I didn't catch that: nazik ve doğal."},
+{"t":"choice","q":"Would you mind opening the window? Pencere açılsın istiyorsan cevap?","o":["Yes, I would.","Not at all.","Yes, please.","No, I don't want."],"a":1,"e":"Not at all: sakıncası yok, açacağım."},
+{"t":"tr","q":"Biraz daha yavaş konuşabilir misiniz lütfen?","a":["Could you speak more slowly, please","Could you speak more slowly please","Could you speak a little more slowly, please","Can you speak more slowly, please"],"e":"Could you speak more slowly...?"},
+{"t":"choice","q":"Bir kelimenin anlamını sormak için hangisi doğru?","o":["What means 'appointment'?","What does 'appointment' mean?","How is 'appointment' mean?","What do 'appointment' means?"],"a":1,"e":"What does ... mean?"},
+{"t":"fill","q":"Could I ___ you a question? (ask)","a":["ask"],"e":"Could I ask you a question?"}],
+"advice":"Bu kalıpları bir kez okumak yetmez, bir 'acil durum kartı' yap: 'Could you say that again?', 'Could you speak more slowly?', 'What does ... mean?' cümlelerini telefonunun notlarına koy. Videolardan veya podcast'lerden anlamadığın bir yerde durdurup bu kalıpları kendi kendine yüksek sesle söyle (rol yapma). Bir hafta içinde bu cümleler refleks haline gelir.",
+"related":["can-could","should","conv-thanks-apology","conv-opinion-advice"]
+}

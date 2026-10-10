@@ -1,0 +1,51 @@
+{
+"id":"should","tr":"Tavsiye ve Öneri: Should / Shouldn't","en":"Should / Shouldn't","level":"A2","cat":"grammar-modals","o":3,
+"short":"Tavsiye vermek ve istemek: 'You should see a doctor', 'What should I do?'",
+"terms":["should","shouldn't","tavsiye vermek","öneri","-meli -malı","bence şöyle yap","ought to","had better","you should","what should I do","advice","tavsiye istemek","beklenti"],
+"why":"Arkadaşına tavsiye vermek, iş yerinde bir öneri sunmak ya da 'Ne yapmalıyım?' diye sormak için en doğal kalıp budur. Kibar ama net bir tonu vardır.",
+"explain":[
+"Should, 'bence doğru olan bu' anlamında tavsiye ve öneri verir. Zorunluluk bildirmez (bunun için must/have to vardır); karşı tarafın seçme özgürlüğü vardır. Türkçede '-meli/-malı' ve 'bence ... yapsan iyi olur' kalıplarına denk gelir.",
+"Yapı: should + yalın fiil. Kişiye göre değişmez, to gelmez. Olumsuzu shouldn't'tır. Soruda should başa geçer: 'Should I call him?'",
+"Tavsiyeyi yumuşatmak için 'I think you should...', 'Maybe you should...', 'Why don't you...?' gibi kalıplar kullanılır. Should aynı zamanda beklenti anlatır: 'The meeting should finish by five.'"],
+"formulas":[
+["Olumlu","özne + should + V1"],
+["Olumsuz","özne + shouldn't + V1"],
+["Evet/hayır sorusu","Should + özne + V1?"],
+["Wh- sorusu","What / Where / When + should + özne + V1?"],
+["Yumuşatma","I think you should... · Maybe you should... · Why don't you...?"],
+["Geçmiş pişmanlık","should have + V3  (You should have called me.)"]],
+"uses":[
+{"h":"Tavsiye vermek","t":"'Bence şöyle yapman iyi olur.'","ex":[["You should see a doctor about that cough.","O öksürük için bir doktora görünmelisin."],["I think you should talk to your manager.","Bence müdürünle konuşmalısın."]]},
+{"h":"Tavsiye istemek","t":"Bir konuda başkasının fikrini almak.","ex":[["What should I wear to the interview?","Mülakata ne giymeliyim?"],["Should I accept the offer?","Teklifi kabul etmeli miyim?"]]},
+{"h":"Beklenti","t":"Normalde böyle olması gerekir.","ex":[["The meeting should finish by five.","Toplantının beşe kadar bitmesi gerekiyor."]]},
+{"h":"Geçmişteki hata veya pişmanlık","t":"Should have + V3.","ex":[["I should have studied more.","Daha çok çalışmalıydım."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["You should drink more water.","Daha çok su içmelisin."],["We should leave before the traffic starts.","Trafik başlamadan çıkmalıyız."]]},
+{"h":"Olumsuz","ex":[["You shouldn't work so late every night.","Her gece bu kadar geç çalışmamalısın."],["He shouldn't drive when he's tired.","Yorgunken araba kullanmamalı."]]},
+{"h":"Soru","ex":[["Should we book a table?","Masa ayırtmalı mıyız?"],["Where should I park?","Nereye park etmeliyim?"]]},
+{"h":"Kısa cevaplar","ex":[["Should I call him? — Yes, you should.","Onu aramalı mıyım? — Evet, aramalısın."],["Should we wait? — No, we shouldn't.","Beklemeli miyiz? — Hayır, beklememeliyiz."]]}],
+"words":["should ≈ -meli, -malı (tavsiye)","shouldn't ≈ -memeli","I think you should ≈ bence ...meli(sin)","Why don't you...? ≈ ...sana ne dersin?","ought to ≈ should'a çok yakın, biraz daha resmî","had better ≈ yapsan iyi olur (uyarı tonu, daha güçlü)"],
+"dialogs":[{"h":"Tavsiye istemek","l":[
+["Sibel","I can't sleep well these days. What should I do?","Bu günlerde iyi uyuyamıyorum. Ne yapmalıyım?"],
+["Hakan","Well, you shouldn't drink coffee in the evening.","Şey, akşamları kahve içmemelisin."],
+["Sibel","I know, but I love it.","Biliyorum ama çok seviyorum."],
+["Hakan","Maybe you should try herbal tea instead.","Belki onun yerine bitki çayı denemelisin."],
+["Sibel","Good idea. I think I'll buy some tomorrow.","İyi fikir. Sanırım yarın biraz alırım."]]}],
+"compare":[["must","Should tavsiyedir, must güçlü gereklilik veya yasaktır."],["have-to","Have to dış kuraldan gelen zorunluluk; should kişisel görüş."]],
+"mistakes":[
+["You should to go.","You should go.","Should'tan sonra to gelmez."],
+["He shoulds study more.","He should study more.","Should kişiye göre değişmez."],
+["Do I should call him?","Should I call him?","Should kendi başına yardımcı fiildir; do almaz."],
+["You should better go.","You had better go. / You should go.","Had better ve should karıştırılır; ikisi aynı cümlede birleşmez."],
+["I should went there.","I should have gone there.","Geçmiş pişmanlık: should have + V3."]],
+"ex":[
+{"t":"choice","q":"You ___ see a doctor about that cough.","o":["should","should to","shoulds","are should"],"a":0,"e":"Should + yalın fiil."},
+{"t":"fill","q":"You ___ work so late every night. (shouldn't)","a":["shouldn't","should not"],"e":"Olumsuz tavsiye: shouldn't."},
+{"t":"choice","q":"___ I accept the offer?","o":["Do","Should","Am","Does"],"a":1,"e":"Should başa geçer."},
+{"t":"choice","q":"I ___ studied more. (pişmanlık)","o":["should","should have","should be","have should"],"a":1,"e":"Should have + V3: keşke yapsaydım."},
+{"t":"tr","q":"Mülakata ne giymeliyim?","a":["What should I wear to the interview","What should I wear for the interview"],"e":"What + should + özne + V1?"},
+{"t":"choice","q":"Hangi cümle doğru?","o":["He shoulds study.","He should studies.","He should study.","He should to study."],"a":2,"e":"Should + yalın fiil."},
+{"t":"fill","q":"The meeting ___ finish by five. (beklenti; tek sözcük)","a":["should"],"e":"Beklenti: should."}],
+"advice":"Gerçek hayattan beş kişiye (aile, iş arkadaşı, komşu) bir problem düşün ve her biri için önce 'I think you should...', sonra 'Maybe you should...' ile iki farklı tavsiye cümlesi kur. Ardından geçmişte yaptığın bir hatayı 'I should have...' ile söyle. Kendi hayatından örnekler kuralı ezberlemekten çok daha kalıcıdır.",
+"related":["must","have-to","can-could","future-will"]
+}

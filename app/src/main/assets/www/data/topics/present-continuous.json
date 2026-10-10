@@ -1,0 +1,54 @@
+{
+"id":"present-continuous","tr":"Şimdiki Zaman","en":"Present Continuous","level":"A1","cat":"grammar-tenses","o":2,
+"short":"Şu anda olanlar, geçici durumlar ve kesinleşmiş yakın planlar.",
+"terms":["şimdiki zaman","present continuous","present progressive","şu anda","am is are ing","-ing takısı","geçici durum","yakın gelecek plan","ing eki","now","at the moment"],
+"why":"'Ne yapıyorsun?', 'Şu an toplantıdayım', 'Bu hafta başka bir projede çalışıyorum' gibi anlık ve geçici durumları anlatmak için gerekir. Telefonda ve mesajlaşmada çok sık kullanılır.",
+"explain":[
+"Present Continuous, konuşma anında devam eden eylemleri, bu günlerde süren geçici durumları ve kesinleşmiş yakın planları anlatır. Türkçedeki '-yor' eki çoğunlukla bu zamana denk gelir: 'Yemek yiyorum.' = 'I'm eating.'",
+"Yapı: am/is/are + fiil-ing. Olumsuzluk için am/is/are'den sonra not gelir. Soruda am/is/are başa geçer.",
+"Dikkat: Türkçede 'yiyorum' diyebildiğimiz her fiil İngilizcede -ing alamaz. know, like, love, want, need, understand, believe gibi durum fiilleri genellikle Present Simple ile kullanılır: 'I know the answer.' (I'm knowing değil)."],
+"formulas":[
+["Olumlu","özne + am/is/are + V-ing"],
+["Olumsuz","özne + am/is/are + not + V-ing"],
+["Soru","Am/Is/Are + özne + V-ing?"],
+["Wh- sorusu","Wh- + am/is/are + özne + V-ing?"],
+["Kısa cevap","Yes, I am. / No, he isn't. / No, they aren't."],
+["-ing yazımı","work → working · make → making · run → running · lie → lying"]],
+"uses":[
+{"h":"Şu anda olan eylemler","t":"Konuşma anında devam eden şeyler.","ex":[["I'm waiting for the bus.","Otobüs bekliyorum."],["She's talking to a customer right now.","Şu anda bir müşteriyle konuşuyor."]]},
+{"h":"Bu günlerde süren geçici durumlar","t":"Tam o anda yapmasan bile bu dönemde devam eden şeyler.","ex":[["I'm reading a really good book these days.","Bu günlerde gerçekten güzel bir kitap okuyorum."],["We're working from home this week.","Bu hafta evden çalışıyoruz."]]},
+{"h":"Kesinleşmiş yakın planlar","t":"Zaman belli, plan yapılmış.","ex":[["I'm meeting Elif at six tonight.","Bu akşam altıda Elif'le buluşuyorum."]]},
+{"h":"Değişen ve gelişen durumlar","t":"Zamanla değişen şeyler.","ex":[["Prices are going up again.","Fiyatlar yine yükseliyor."]]},
+{"h":"Rahatsız edici tekrar (always ile)","t":"Always ile sürekli tekrar eden, can sıkan durumlar.","ex":[["He's always losing his keys.","Hep anahtarlarını kaybediyor."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["I'm cooking dinner.","Akşam yemeği pişiriyorum."],["They're playing in the garden.","Bahçede oynuyorlar."],["It's raining, so take an umbrella.","Yağmur yağıyor, o yüzden şemsiye al."]]},
+{"h":"Olumsuz","ex":[["I'm not working today.","Bugün çalışmıyorum."],["He isn't listening to me.","Beni dinlemiyor."],["We aren't staying at a hotel.","Otelde kalmıyoruz."]]},
+{"h":"Evet/hayır soruları","ex":[["Are you coming to the party?","Partiye geliyor musun?"],["Is she studying for an exam?","Bir sınav için mi çalışıyor?"]]},
+{"h":"Wh- soruları","ex":[["What are you doing?","Ne yapıyorsun?"],["Where are they going?","Nereye gidiyorlar?"],["Why is he laughing?","Neden gülüyor?"]]},
+{"h":"Kısa cevaplar","ex":[["Are you working? — Yes, I am.","Çalışıyor musun? — Evet, çalışıyorum."],["Is it snowing? — No, it isn't.","Kar yağıyor mu? — Hayır, yağmıyor."]]}],
+"words":["now — şimdi","right now — tam şu anda","at the moment — şu sıralar, şu anda","today / this week / this year — bugün / bu hafta / bu yıl","currently — şu günlerde","these days — bu günlerde","Look! / Listen! — Bak! / Dinle! (konuşma anındaki olay için)"],
+"dialogs":[{"h":"Telefonda","l":[
+["Selin","Hi Tom, are you busy right now?","Selam Tom, şu an meşgul müsün?"],
+["Tom","A little. I'm driving to the office.","Biraz. Ofise doğru araba sürüyorum."],
+["Selin","No problem. I'm calling about tomorrow's meeting.","Sorun değil. Yarınki toplantı için arıyorum."],
+["Tom","Can I call you back in ten minutes? I'm just parking.","Seni on dakika sonra arayabilir miyim? Tam park ediyorum."],
+["Selin","Sure. Take your time.","Tabii. Acele etme."]]}],
+"compare":[["present-simple","'I work in a bank' kalıcı durumu, 'I'm working in a bank this month' geçici durumu anlatır."],["future-present-forms","'I'm meeting her tomorrow' kesinleşmiş plan; 'I'll meet her' o anda verilen karar."]],
+"mistakes":[
+["I'm knowing the answer.","I know the answer.","Know, like, want, need, understand gibi durum fiilleri genelde -ing almaz."],
+["She is work now.","She is working now.","Am/is/are'den sonra fiil -ing almalıdır."],
+["I working at the moment.","I'm working at the moment.","am/is/are düşürülemez; Türkçede yardımcı fiil olmadığı için sık unutulur."],
+["Are you understand me?","Do you understand me?","Understand bir durum fiilidir; Present Simple kullanılır."],
+["He's runing.","He's running.","Tek heceli, kısa ünlü + tek ünsüzle biten fiillerde ünsüz ikilenir: run → running."]],
+"ex":[
+{"t":"choice","q":"Please be quiet. The baby ___.","o":["sleeps","is sleeping","sleeping","does sleep"],"a":1,"e":"Konuşma anında devam eden eylem."},
+{"t":"fill","q":"They ___ (not/watch) TV right now. (kısaltma kullan)","a":["aren't watching","are not watching"],"e":"They + are not + V-ing."},
+{"t":"fill","q":"What ___ you ___ (do)? Yazılacak: are doing","a":["are doing"],"e":"Wh- + are + özne + V-ing."},
+{"t":"choice","q":"Hangisi doğru?","o":["I'm wanting a coffee.","I want a coffee.","I wanting a coffee.","I do want a coffee now."],"a":1,"e":"Want durum fiilidir; Present Simple."},
+{"t":"tr","q":"Bu hafta evden çalışıyoruz.","a":["We're working from home this week","We are working from home this week","This week we're working from home","This week we are working from home"],"e":"Geçici durum: Present Continuous."},
+{"t":"fill","q":"He ___ (run) in the park at the moment.","a":["is running","'s running"],"e":"run → running (ünsüz ikilenir)."},
+{"t":"choice","q":"___ she studying for the exam?","o":["Do","Does","Is","Are"],"a":2,"e":"She + is, soruda başa geçer."},
+{"t":"choice","q":"I ___ Elif at six tonight. (kesinleşmiş plan)","o":["meet","am meeting","meeting","do meet"],"a":1,"e":"Kesinleşmiş yakın plan için Present Continuous kullanılır."}],
+"advice":"Bir gün boyunca etrafında olanları sesli olarak İngilizce anlat: 'I'm drinking tea. My phone is ringing. The neighbours are talking outside.' Bu şekilde -ing yapısını 'şu an' duygusuyla bağdaştırırsın. Ardından aynı cümleleri olumsuz yap. Durum fiillerini (know, want, like) ayrı bir kâğıda yaz ve her gün birini Present Simple ile cümleye dök.",
+"related":["present-simple","future-present-forms","be-going-to","yes-no-questions"]
+}

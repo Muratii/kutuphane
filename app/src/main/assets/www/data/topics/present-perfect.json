@@ -1,0 +1,55 @@
+{
+"id":"present-perfect","tr":"Yakın Geçmiş / Deneyim Zamanı","en":"Present Perfect","level":"A2","cat":"grammar-tenses","o":4,
+"short":"Geçmişle şimdi arasında bağ kuran zaman: deneyimler, yeni haberler, for ve since.",
+"terms":["present perfect","have has","V3","-miş'li geçmiş","deneyim","yaşam deneyimi","for since farkı","for ve since","since","for","already yet just","ever never","have been to","have gone to","yeni olmuş","haber"],
+"why":"'Hiç Londra'ya gittin mi?', 'Raporu bitirdim', 'Beş yıldır burada çalışıyorum' cümlelerinin hepsi bu zamanı ister. Türkçeye tek bir zamanla çevrilemediği için en çok karıştırılan konulardan biridir; doğru kullanınca konuşman çok doğallaşır.",
+"explain":[
+"Present Perfect, geçmişte başlayan ya da geçmişte olan ama şimdiyle bağlantılı bir durumu anlatır. Ne zaman olduğundan çok, sonucu ya da deneyimin kendisi önemlidir: 'I've lost my keys.' (anahtarlarım hâlâ yok).",
+"Yapı: have/has + V3 (past participle). Düzenli fiillerde V3 = V2 (worked), düzensizlerde ayrıdır (go – went – gone).",
+"Altın kural: Zamanı belli bir geçmiş ifadesi (yesterday, last week, in 2019, two days ago) varsa Present Perfect kullanılmaz; Past Simple kullanılır. 'I have seen him yesterday' yanlıştır."],
+"formulas":[
+["Olumlu","I/You/We/They + have + V3  |  He/She/It + has + V3"],
+["Olumsuz","have not (haven't) / has not (hasn't) + V3"],
+["Evet/hayır sorusu","Have + I/you/we/they + V3?  |  Has + he/she/it + V3?"],
+["Wh- sorusu","Wh- + have/has + özne + V3?"],
+["Kısa cevap","Yes, I have. / No, she hasn't."],
+["for / since","for + süre (for five years)  |  since + başlangıç noktası (since 2019, since Monday)"]],
+"uses":[
+{"h":"Yaşam deneyimi (ever / never)","t":"Hayatın herhangi bir noktasında yaşanmış deneyimler.","ex":[["I've been to London twice.","İki kez Londra'ya gittim."],["Have you ever tried sushi?","Hiç suşi denedin mi?"],["She has never flown in a plane.","O hiç uçağa binmedi."]]},
+{"h":"Şimdiyi etkileyen yakın geçmiş","t":"Sonucu şimdi görülen olaylar.","ex":[["I've lost my keys. Can you help me look?","Anahtarlarımı kaybettim. Bakmama yardım eder misin?"],["The price has gone up again.","Fiyat yine yükseldi."]]},
+{"h":"Yeni haber","t":"Haberi verirken önce Present Perfect, ayrıntıda Past Simple kullanılır.","ex":[["Mehmet has got a new job. He started on Monday.","Mehmet yeni bir iş buldu. Pazartesi başladı."]]},
+{"h":"Devam eden durumlar: for ve since","t":"Geçmişte başlayan ve hâlâ süren durumlar. For süre, since başlangıç noktasını verir.","ex":[["I've worked here for five years.","Beş yıldır burada çalışıyorum."],["I've lived in Bursa since 2019.","2019'dan beri Bursa'da yaşıyorum."]]},
+{"h":"Just, already, yet","t":"Just: az önce. Already: şimdiden. Yet: henüz (olumsuz ve soruda, cümle sonunda).","ex":[["I've just finished the report.","Raporu az önce bitirdim."],["Have you sent the email yet?","E-postayı henüz gönderdin mi?"],["We haven't decided yet.","Henüz karar vermedik."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["They have already left.","Onlar şimdiden ayrıldı."],["My sister has moved to Germany.","Kız kardeşim Almanya'ya taşındı."]]},
+{"h":"Olumsuz","ex":[["I haven't seen that film.","O filmi izlemedim."],["He hasn't called me today.","Bugün beni aramadı."]]},
+{"h":"Soru","ex":[["Have you finished your homework?","Ödevini bitirdin mi?"],["How long have you known Selin?","Selin'i ne zamandır tanıyorsun?"],["Has the manager arrived yet?","Müdür geldi mi henüz?"]]},
+{"h":"Kısa cevaplar","ex":[["Have you eaten? — Yes, I have.","Yemek yedin mi? — Evet, yedim."],["Has she called? — No, she hasn't.","O aradı mı? — Hayır, aramadı."]]},
+{"h":"Have been to / have gone to","ex":[["I've been to Italy.","İtalya'ya gittim (gidip döndüm)."],["She has gone to Italy.","İtalya'ya gitti (hâlâ orada ya da yolda)."]]}],
+"words":["ever — hiç (soruda)","never — hiç, asla","already — şimdiden, zaten","yet — henüz (olumsuz/soru)","just — az önce","recently / lately — son zamanlarda","so far — şimdiye kadar","for + süre: for two hours, for a week","since + zaman noktası: since 9 o'clock, since last year","this week / this month — bu hafta / bu ay (süre henüz bitmediyse)"],
+"dialogs":[{"h":"Yeni iş görüşmesi sonrası","l":[
+["Elif","Have you heard from the company yet?","Şirketten haber aldın mı?"],
+["Burak","Yes! They called this morning. I've got the job.","Evet! Bu sabah aradılar. İşi aldım."],
+["Elif","That's great news. Have you told your family?","Harika haber. Ailene söyledin mi?"],
+["Burak","Not yet. I've only told you.","Henüz değil. Sadece sana söyledim."],
+["Elif","When do you start?","Ne zaman başlıyorsun?"],
+["Burak","Next Monday. I've never worked in a big company before, so I'm a bit nervous.","Gelecek pazartesi. Daha önce hiç büyük bir şirkette çalışmadım, o yüzden biraz gerginim."]]}],
+"compare":[["past-simple","Zaman belli → Past Simple ('I saw it last week'). Zaman belirsiz ya da şimdiyle bağlantılı → Present Perfect ('I've seen it')."],["present-simple","'I live here for five years' yanlıştır; süren durum için 'I've lived here for five years' denir."]],
+"mistakes":[
+["I have seen him yesterday.","I saw him yesterday.","Yesterday gibi bitmiş zaman ifadesiyle Present Perfect kullanılmaz."],
+["I am living here since 2019.","I have lived here since 2019.","Since/for ile süren durum Present Perfect ister."],
+["I know him since five years.","I've known him for five years.","Beş yıl bir süredir, bu yüzden for; since başlangıç noktasıyla kullanılır."],
+["Did you ever been to Paris?","Have you ever been to Paris?","Ever ile deneyim sorusu Present Perfect ile kurulur."],
+["She has went home.","She has gone home.","Present Perfect'te V3 gerekir: go – went – gone."]],
+"ex":[
+{"t":"choice","q":"I ___ in this company for three years.","o":["work","am working","have worked","worked"],"a":2,"e":"For + süre, hâlâ devam ediyor → Present Perfect."},
+{"t":"fill","q":"She has lived in Ankara ___ 2018. (for / since)","a":["since"],"e":"2018 bir başlangıç noktasıdır → since."},
+{"t":"fill","q":"We have lived here ___ ten years. (for / since)","a":["for"],"e":"Ten years bir süredir → for."},
+{"t":"choice","q":"___ you ever ___ sushi?","o":["Did / try","Have / tried","Do / try","Are / trying"],"a":1,"e":"Ever ile deneyim sorusu: Have you ever tried...?"},
+{"t":"choice","q":"I ___ him yesterday.","o":["have seen","saw","have saw","see"],"a":1,"e":"Yesterday → Past Simple."},
+{"t":"fill","q":"He ___ (not/finish) the report yet. (kısaltma kullan)","a":["hasn't finished","has not finished"],"e":"Yet ile olumsuz: hasn't + V3."},
+{"t":"tr","q":"Hiç Londra'ya gittin mi?","a":["Have you ever been to London","Have you been to London"],"e":"Deneyim sorusu: Have you ever been to...?"},
+{"t":"choice","q":"Hangisi doğru? 'Ali gitti ve hâlâ orada.'","o":["Ali has been to Izmir.","Ali has gone to Izmir.","Ali went to Izmir since Monday.","Ali is going to Izmir."],"a":1,"e":"Has gone to: gitti ve henüz dönmedi."}],
+"advice":"Bu zamanı üç ayrı çekmeceye ayır: (1) deneyim: ever/never, (2) sonuç: just/already/yet, (3) süre: for/since. Her çekmece için kendi hayatından üç cümle yaz. For/since için bir ipucu: önce 'Ne kadar süredir?' diye sor; cevap 'beş yıl' ise for, '2019' ise since. Ayrıca her gün bir kez 'Have you ever...?' diye bir soru kur ve kendi kendine cevap ver.",
+"related":["past-simple","present-simple","yes-no-questions","wh-questions"]
+}

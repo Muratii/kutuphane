@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "grammar", "tr": "İngilizce Dil Bilgisi", "icon": "📘",
+      "children": [
+        {
+          "id": "grammar-tenses", "tr": "Zamanlar (Tenses)",
+          "planned": ["Present Perfect Continuous", "Past Continuous", "Past Perfect", "Past Perfect Continuous", "Future Continuous", "Future Perfect", "Future Perfect Continuous", "Used to ile geçmiş alışkanlıklar", "Would ile geçmiş alışkanlıklar", "Zamanların birbiriyle karşılaştırılması"]
+        },
+        {
+          "id": "grammar-modals", "tr": "Yardımcı Fiiller ve Modal Verbs",
+          "planned": ["May / Might", "Ought to", "Need to / Needn't", "Must have / Might have / Could have / Should have", "Would / Would like", "Will / Would", "Shall", "Be able to", "Be supposed to", "Had better", "Would rather", "Used to / Be used to / Get used to", "Have got to", "Dare", "Must ile have to farkı (kısmen 'Must' ve 'Have to' konularında var)"]
+        },
+        {
+          "id": "grammar-structures", "tr": "Cümle Kurma ve Temel Yapılar",
+          "planned": ["Özne, fiil, nesne ve cümle dizilimi", "To be: am / is / are / was / were", "Do / does / did yardımcı fiilleri", "Have / has / had", "There is / There are / There was / There were", "Have got / Has got", "Emir cümleleri", "Question tags", "Dolaylı sorular", "Özne ve nesne zamirleri", "İyelik sıfatları ve zamirleri", "Dönüşlülük zamirleri", "Articles: a / an / the", "Sayılabilen ve sayılamayan isimler", "Some / Any / No", "Much / Many / A lot of", "Few / A few / Little / A little", "Edatlar: in / on / at", "Yer, zaman ve hareket edatları", "Sıfatlar ve zarflar", "Karşılaştırma ve üstünlük", "Too / Enough", "So / Such", "As ... as", "Bağlaçlar", "Relative clauses", "Gerund ve infinitive", "Passive voice", "Reported speech", "Conditionals (zero, first, second, third, mixed)", "Wish / If only", "Causative: have something done", "Devrik yapılar ve vurgu", "Punctuation ve büyük harf"]
+        },
+        {
+          "id": "grammar-verbs", "tr": "Fiiller ve Fiil Kullanımları",
+          "planned": ["Düzenli ve düzensiz fiiller (V1 / V2 / V3)", "Fiil + to infinitive / gerund", "Phrasal verbs", "Fiil + edat kalıpları", "Collocations", "Do / make farkı", "Say / tell farkı", "Speak / talk farkı", "Hear / listen farkı", "See / look / watch farkı", "Bring / take farkı", "Come / go farkı", "Borrow / lend farkı", "Learn / teach farkı", "Meet / know farkı", "Get fiilinin yaygın kullanımları"]
+        }
+      ]
+    },
+    {
+      "id": "daily", "tr": "Günlük Konuşma İngilizcesi", "icon": "💬",
+      "children": [
+        {
+          "id": "daily-social", "tr": "Selamlaşma ve Nezaket",
+          "planned": ["Kendini tanıtma ve birini tanıştırma", "Sohbet başlatma ve sürdürme", "Samimi ve resmî konuşma farkları"]
+        },
+        {
+          "id": "daily-ask", "tr": "İstek, Yardım ve Görüş",
+          "planned": ["Telefon görüşmeleri", "Mesajlaşma ve e-posta ifadeleri", "Davet etme ve davete cevap verme", "Plan yapma, değiştirme, iptal etme"]
+        },
+        {
+          "id": "daily-occasions", "tr": "Dilekler, Kutlamalar ve Tepkiler",
+          "planned": ["Başsağlığı ve destek ifadeleri", "Birini uğurlama ve ayrılırken söylenenler"]
+        }
+      ]
+    },
+    {
+      "id": "scenarios", "tr": "Gerçek Yaşam Senaryoları", "icon": "🧳",
+      "planned": ["Seyahat: havaalanı, check-in, bagaj, güvenlik, pasaport kontrolü", "Seyahat: uçuş gecikmesi, aktarma, bagaj kaybı", "Seyahat: tren, otobüs, taksi, yol tarifi, araç kiralama", "Otel: rezervasyon, giriş-çıkış, sorun bildirme", "Restoran ve kafe: sipariş, alerji, hesap, bahşiş", "Alışveriş: fiyat, beden, iade, online alışveriş", "Doktor, eczane ve acil durum", "Banka, telefon operatörü, kuaför, spor salonu", "Ev kiralama, komşular, arkadaşlarla buluşma", "Etkinlik, müze, hava durumu, hobiler"]
+    },
+    {
+      "id": "business", "tr": "İş İngilizcesi", "icon": "💼",
+      "planned": ["İş ortamında tanışma ve kendini tanıtma", "Toplantılar ve sunumlar", "Telefon görüşmeleri ve çevrim içi toplantılar", "Resmî ve yarı resmî e-postalar", "Kibar hatırlatma, gecikme bildirme, problem açıklama", "Müzakere ve diplomatik ifadeler", "İş görüşmesi ve CV", "Müşteri ilişkileri ve şikâyet yönetimi", "Fatura, bütçe, finans ve muhasebe terimleri", "Satış ve pazarlama"]
+    },
+    {
+      "id": "idioms", "tr": "Deyimler, Kalıplar ve Doğal İngilizce", "icon": "🗣",
+      "planned": ["Günlük deyimler (idioms)", "Konuşma dilindeki kısaltmalar ve contractions", "Dolgu ifadeleri: well, actually, you know", "Şaşırma, sevinme ve hayal kırıklığı ifadeleri", "Kibarca reddetme ve itiraz etme", "Zaman kazanma ve konu değiştirme", "Mesajlaşma kısaltmaları", "Amerikan ve Britanya İngilizcesi farkları"]
+    }
+  ]
+}

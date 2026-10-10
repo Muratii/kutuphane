@@ -1,0 +1,54 @@
+{
+"id":"past-simple","tr":"Geçmiş Zaman","en":"Past Simple","level":"A1","cat":"grammar-tenses","o":3,
+"short":"Geçmişte bitmiş eylemler: dün ne yaptın, geçen yıl nereye gittin?",
+"terms":["geçmiş zaman","simple past","past simple","-di'li geçmiş","dün","geçen hafta","did","didn't","düzensiz fiiller","V2","ed takısı","ago","yesterday","last night","was were"],
+"why":"Geçmişte olanları anlatmadan sohbet edemezsin: hafta sonu ne yaptığını, tatilini, bir toplantıda ne konuşulduğunu anlatmak için Past Simple gerekir. Hikâye anlatmanın temel zamanıdır.",
+"explain":[
+"Past Simple, geçmişte başlamış ve bitmiş eylemleri anlatır; genellikle ne zaman olduğu belli ya da bağlamdan anlaşılır: 'I called him yesterday.' Türkçedeki '-dı/-di' geçmiş zamanına denk gelir.",
+"Düzenli fiillere -ed eklenir (work → worked). Düzensiz fiillerin ikinci hali ayrıca öğrenilmelidir (go → went, see → saw).",
+"Olumsuz ve soru cümlelerinde did kullanılır ve ana fiil yalın hale döner: 'Did you go?' / 'I didn't go.' (did went yanlış). Tek istisna to be'dir: was/were."],
+"formulas":[
+["Olumlu","özne + V2 (worked / went)"],
+["Olumsuz","özne + didn't + V1"],
+["Evet/hayır sorusu","Did + özne + V1?"],
+["Wh- sorusu","Wh- + did + özne + V1?"],
+["To be","I/he/she/it was · you/we/they were · wasn't / weren't · Was he...? / Were you...?"],
+["Kısa cevap","Yes, I did. / No, she didn't. / Yes, I was."],
+["-ed yazımı","work → worked · love → loved · stop → stopped · study → studied · play → played"]],
+"uses":[
+{"h":"Bitmiş geçmiş eylemler","t":"Geçmişte tek seferlik olup bitmiş şeyler.","ex":[["I called the bank this morning.","Bu sabah bankayı aradım."],["We visited Istanbul last summer.","Geçen yaz İstanbul'u ziyaret ettik."]]},
+{"h":"Art arda gelen olaylar","t":"Hikâye anlatırken sırayla olanlar.","ex":[["I got home, made some tea and watched a film.","Eve geldim, çay yaptım ve bir film izledim."]]},
+{"h":"Geçmişteki durumlar ve alışkanlıklar","t":"Artık geçerli olmayan durumlar.","ex":[["We lived in Ankara for five years.","Beş yıl Ankara'da yaşadık."],["He was very shy as a child.","Çocukken çok utangaçtı."]]},
+{"h":"Ne zaman olduğunu söylediğinde","t":"yesterday, last week, in 2019, two days ago gibi bitmiş zaman ifadeleri Past Simple ister.","ex":[["She started this job in 2022.","Bu işe 2022'de başladı."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["I bought a new phone yesterday.","Dün yeni bir telefon aldım."],["They arrived late because of the traffic.","Trafik yüzünden geç geldiler."],["My manager sent me the report an hour ago.","Müdürüm raporu bana bir saat önce gönderdi."]]},
+{"h":"Olumsuz","ex":[["I didn't sleep well last night.","Dün gece iyi uyuyamadım."],["She didn't answer my message.","Mesajıma cevap vermedi."],["We weren't at home at the weekend.","Hafta sonu evde değildik."]]},
+{"h":"Evet/hayır soruları","ex":[["Did you enjoy the concert?","Konseri beğendin mi?"],["Did he call you back?","Seni geri aradı mı?"],["Were you at work yesterday?","Dün işte miydin?"]]},
+{"h":"Wh- soruları","ex":[["Where did you go on holiday?","Tatilde nereye gittin?"],["What time did the meeting finish?","Toplantı kaçta bitti?"],["Why did she leave early?","Neden erken ayrıldı?"]]},
+{"h":"Kısa cevaplar","ex":[["Did you see Ali? — Yes, I did.","Ali'yi gördün mü? — Evet, gördüm."],["Did they win? — No, they didn't.","Kazandılar mı? — Hayır, kazanamadılar."]]}],
+"words":["yesterday — dün","last night / week / month / year — geçen gece / hafta / ay / yıl","two days ago — iki gün önce","in 2019 — 2019'da","when I was a child — çocukken","this morning — bu sabah (sabah bitmişse)","then / after that — sonra","Sık düzensiz fiiller: go–went, have–had, see–saw, buy–bought, take–took, make–made, come–came, eat–ate, write–wrote, get–got, give–gave, say–said, tell–told, meet–met, leave–left, pay–paid"],
+"dialogs":[{"h":"Hafta sonu nasıldı?","l":[
+["Deniz","How was your weekend?","Hafta sonun nasıldı?"],
+["Kaan","It was great. We went to Uludağ on Saturday.","Harikaydı. Cumartesi Uludağ'a gittik."],
+["Deniz","Did you ski?","Kayak yaptınız mı?"],
+["Kaan","No, we didn't. There wasn't enough snow, so we just walked and had lunch.","Hayır. Yeterli kar yoktu, biz de yürüdük ve öğle yemeği yedik."],
+["Deniz","That sounds nice.","Kulağa güzel geliyor."]]}],
+"compare":[["present-perfect","Zamanı belli bitmiş olay: Past Simple ('I saw him yesterday'). Zamanı belirtilmeyen, şimdiyle bağlantılı deneyim: Present Perfect ('I've seen him')."],["present-simple","Present Simple alışkanlığı şimdi için, Past Simple geçmiş için anlatır."]],
+"mistakes":[
+["I didn't went to school.","I didn't go to school.","Did/didn't'ten sonra fiil yalın halde kalır; geçmiş zaman zaten did'de gösterilir."],
+["Did you saw him?","Did you see him?","Soruda did varsa ana fiil V1 olur."],
+["I go to the cinema yesterday.","I went to the cinema yesterday.","Yesterday gibi bitmiş zaman ifadesi Past Simple ister."],
+["She was go home.","She went home.","Was/were ile Past Simple fiil birlikte kullanılmaz."],
+["He studyed hard.","He studied hard.","Sessiz harf + y → -ied."]],
+"ex":[
+{"t":"choice","q":"We ___ to Izmir last month.","o":["go","goed","went","gone"],"a":2,"e":"Go düzensiz fiildir: go – went."},
+{"t":"fill","q":"I ___ (not/see) him yesterday. (kısaltma kullan)","a":["didn't see","did not see"],"e":"didn't + V1."},
+{"t":"choice","q":"___ you call Mehmet last night?","o":["Do","Did","Were","Have"],"a":1,"e":"Geçmişte bitmiş eylem sorusu: Did + V1."},
+{"t":"fill","q":"She ___ (buy) a new laptop two weeks ago.","a":["bought"],"e":"buy – bought."},
+{"t":"tr","q":"Dün gece iyi uyuyamadım.","a":["I didn't sleep well last night","I did not sleep well last night","Last night I didn't sleep well","Last night I did not sleep well"],"e":"sleep – slept, ama olumsuzda didn't + sleep."},
+{"t":"choice","q":"Where ___ you ___ on holiday?","o":["did / go","did / went","do / went","were / go"],"a":0,"e":"Did + V1."},
+{"t":"fill","q":"They ___ (be) at home yesterday evening. (olumsuz, kısaltma)","a":["weren't"],"e":"They için were; olumsuz weren't."},
+{"t":"choice","q":"Hangi cümle doğru?","o":["He studyed all night.","He studied all night.","He did studied all night.","He study all night."],"a":1,"e":"study → studied."}],
+"advice":"Her akşam yatmadan önce 'Today I...' diye başlayan üç cümle kur ve bunları 'Yesterday I...' diye başlayarak geçmişe çevir. Düzensiz fiilleri alfabetik liste yerine, kendi günlük hayatından çıkan gruplarla öğren (sabah: wake–woke, get–got, eat–ate; iş: write–wrote, send–sent, meet–met). Her gün yalnızca beş düzensiz fiili cümleye koy; tek başına ezber listeleri çabuk unutulur.",
+"related":["present-perfect","present-simple","yes-no-questions","wh-questions"]
+}

@@ -1,0 +1,40 @@
+{
+"id":"conv-thanks-apology","tr":"Teşekkür, Rica Ederim ve Özür","en":"Thanks, You're Welcome and Apologies","level":"A1","cat":"daily-social","o":2,
+"short":"Teşekkür etme ve karşılık verme, özür dileme, sorun değil/önemli değil, benim hatam.",
+"terms":["teşekkür","teşekkür ederim","rica ederim","sağ ol","özür dilerim","pardon","sorun değil","önemli değil","hiç sorun değil","benim hatam","thank you","thanks","you're welcome","no problem","sorry","my bad","never mind","my fault","teşekkür ederim sana da","thanks you too","fark etmez","no worries"],
+"why":"Teşekkür ve özür, ilişkileri yumuşatan en güçlü kalıplardır. Türkçedeki 'rica ederim', 'sorun değil', 'önemli değil' gibi ifadelerin her birinin İngilizcede ayrı bir doğal karşılığı vardır; bunları karıştırmak yanlış anlaşılmaya yol açabilir.",
+"explain":[
+"Teşekkür derecelendirilir: Thanks (samimi) → Thank you (nötr) → Thank you so much / Thanks a lot (güçlü) → I really appreciate it (içten, iş yeri). Karşılık olarak You're welcome nötrdür; No problem ve No worries daha samimidir.",
+"Özürde de benzer bir ölçek vardır: Sorry (günlük) → I'm sorry about that (daha ciddi) → I apologise for the inconvenience (resmî). Excuse me ise özür değil, dikkat çekme veya geçiş isteme kalıbıdır.",
+"Türkçedeki 'sorun değil' ve 'önemli değil'in birebir tek karşılığı yoktur. Özür kabulünde 'It's okay', 'Don't worry about it'; yardım sonrası 'No problem' kullanılır."],
+"phrases":[
+{"en":"Thanks. / Thank you. / Thanks a lot. / Thank you so much.","tr":"Teşekkürler. / Teşekkür ederim. / Çok teşekkürler.","use":"Yardım, hediye veya iyilik karşılığında.","reg":"samimi → nötr → güçlü","ex":["Thank you so much for your help today.","Bugünkü yardımın için çok teşekkür ederim."],"note":"UK'de 'Cheers' da günlük teşekkür olarak kullanılır."},
+{"en":"I really appreciate it.","tr":"Gerçekten çok minnettarım / çok kıymet veriyorum.","use":"İş yeri veya içten teşekkür.","reg":"nötr / resmî","ex":["I really appreciate your quick reply.","Hızlı cevabın için gerçekten minnettarım."],"note":"'Appreciate' hem teşekkür hem takdir içerir; resmî e-postalarda çok kullanılır."},
+{"en":"Thanks, you too.","tr":"Teşekkür ederim, sana da.","use":"Birisi sana iyi dilek ilettiğinde.","reg":"samimi","ex":["— Have a great weekend! — Thanks, you too!","— İyi hafta sonları! — Teşekkürler, sana da!"],"note":"'You too' tek başına da yeterli; 'Same to you' biraz eski moda."},
+{"en":"You're welcome. / No problem. / My pleasure. / Anytime. / Not at all.","tr":"Rica ederim. / Sorun değil. / Memnuniyetle. / Her zaman. / Hiç önemli değil.","use":"Teşekkürü karşılarken.","reg":"nötr / samimi / nazik","ex":["— Thanks for the lift. — No problem!","— Bırakman için teşekkürler. — Sorun değil!"],"note":"'My pleasure' hizmet sektöründe nazik; 'No worries' UK/Avustralya/ABD'de samimi."},
+{"en":"Sorry. / I'm so sorry. / I apologise.","tr":"Pardon. / Çok özür dilerim. / Özür dilerim (resmî).","use":"Özür dilemek.","reg":"samimi → nötr → resmî","ex":["I'm so sorry I'm late. The traffic was terrible.","Geç kaldığım için çok özür dilerim. Trafik berbattı."],"note":"ABD'de apologize, UK'de apologise yazılır."},
+{"en":"Excuse me. / Pardon me.","tr":"Affedersiniz. / Pardon.","use":"Dikkat çekme, önünden geçme, birine hitap etme.","reg":"nötr / nazik","ex":["Excuse me, is this seat taken?","Affedersiniz, bu yer dolu mu?"],"note":"Excuse me özür değil, nezaket girişidir; hata yaptığında 'Sorry' denir."},
+{"en":"It's okay. / Don't worry about it. / No worries. / Never mind.","tr":"Sorun değil. / Önemli değil, boş ver. / Dert etme.","use":"Özrü kabul ederken.","reg":"samimi / nötr","ex":["— Sorry I forgot your book. — Don't worry about it.","— Kitabını unuttuğum için üzgünüm. — Önemli değil."],"note":"'Never mind' bazen küçümseyici olabilir: 'Boş ver, anlatmayacağım' gibi. Özür kabulünde It's okay daha güvenlidir."},
+{"en":"My bad. / My mistake. / That's my fault.","tr":"Benim hatam. / Benim suçum.","use":"Kendi hatanı kabul etmek.","reg":"samimi / nötr","ex":["Oh, my mistake. I sent you the wrong file.","Ah, benim hatam. Sana yanlış dosyayı göndermişim."],"note":"'My bad' çok samimi; iş yazışmasında 'My mistake' ya da 'That was my error' tercih edilir."}],
+"dialogs":[{"h":"Geç kalmak","l":[
+["Aylin","I'm so sorry I'm late.","Geç kaldığım için çok özür dilerim."],
+["Mert","It's okay. We just started.","Sorun değil. Yeni başladık."],
+["Aylin","Thanks. I really appreciate your patience.","Teşekkürler. Sabrın için gerçekten minnettarım."],
+["Mert","No problem. Have a seat.","Rica ederim. Otur."],
+["Aylin","Oh, my bad. I forgot to bring the documents.","Ah, benim hatam. Belgeleri getirmeyi unuttum."]]}],
+"compare":[["conv-greetings","Selamlaşma, teşekkür ve özür günlük nezaket üçlüsüdür."],["conv-requests","Rica ederken 'please' ve 'thank you' birlikte kullanılır."]],
+"mistakes":[
+["Sorry! — Sorry. (cevap olarak)","Sorry! — It's okay.","Özrü kabul ederken It's okay ya da Don't worry denir."],
+["Thank you. — Thank you. (cevap)","Thank you. — You're welcome.","Teşekkür cevaplanırken You're welcome gibi kalıp kullanılır."],
+["Excuse me! (hata yaptığında)","Sorry!","Excuse me nezaket girişi; hata için Sorry."],
+["Thanks. — Rica ederim.","Thanks. — You're welcome.","Rica ederim ≠ please; please rica ederken kullanılır."]],
+"ex":[
+{"t":"choice","q":"Biri sana teşekkür etti. En doğal cevap hangisi?","o":["Please.","You're welcome.","Thank you, too.","No, thanks."],"a":1,"e":"You're welcome."},
+{"t":"choice","q":"Özrü kabul ederken hangisi uygundur?","o":["Excuse me.","It's okay.","Thanks for sorry.","No, thank you."],"a":1,"e":"It's okay veya Don't worry about it."},
+{"t":"choice","q":"Biri 'Have a nice weekend!' dedi. Cevabın?","o":["Thanks, you too!","You're welcome!","No problem!","I'm sorry!"],"a":0,"e":"İyi dilek karşılığı: Thanks, you too!"},
+{"t":"tr","q":"Benim hatam.","a":["My mistake","My bad","That's my fault","It's my fault"],"e":"My bad daha samimi."},
+{"t":"choice","q":"Kalabalıkta birinin önünden geçerken ne diyorsun?","o":["Sorry, I'm lost.","Excuse me.","My bad.","Thank you very much."],"a":1,"e":"Excuse me: geçiş izni, dikkat çekme."},
+{"t":"fill","q":"Thank you so much! — ___ problem! (kısa bir cevap, ilk kelimeyi yaz)","a":["No"],"e":"No problem."}],
+"advice":"Üç kutu yap: 'Teşekkür ederken' (Thanks/Thank you/I appreciate it), 'Karşılık verirken' (You're welcome/No problem/My pleasure), 'Özür dilerken' (Sorry/I apologise/My mistake). Gün içinde karşılaştığın bir iyilik veya hatayı hangi kutuya koyabileceğini düşün ve yüksek sesle söyle. Resmî ve samimi seçenekleri ayır: iş arkadaşına No worries, müşteriye My pleasure.",
+"related":["conv-greetings","conv-requests","conv-opinion-advice","conv-reactions"]
+}

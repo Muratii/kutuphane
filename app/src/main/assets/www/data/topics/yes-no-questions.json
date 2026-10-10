@@ -1,0 +1,52 @@
+{
+"id":"yes-no-questions","tr":"Evet/Hayır Soruları","en":"Yes/No Questions","level":"A1","cat":"grammar-structures","o":1,
+"short":"Do/Does/Did, am/is/are, can/will ile soru kurma ve kısa cevap verme.",
+"terms":["soru cümlesi","soru cümleleri","evet hayır sorusu","yes no question","do does did","is are","mi mı","kısa cevap","soru kurma","inversion","question"],
+"why":"İngilizcede soru sormayı bilmeden konuşma başlatamazsın. Türkçede 'mi/mı' ekini sona eklersin; İngilizcede ise yardımcı fiil başa geçer. Bu farkı oturtmak, konuşmanın en büyük engellerinden birini kaldırır.",
+"explain":[
+"Evet/hayır sorusunda cümlenin başına yardımcı fiil gelir: Do/Does/Did, am/is/are, was/were, have/has, can/could/will/should vb. Sonra özne, sonra yalın fiil gelir.",
+"Cümlede zaten bir yardımcı veya modal fiil varsa (is, can, will, have), onu özneyle yer değiştirirsin: 'She is tired.' → 'Is she tired?', 'You can swim.' → 'Can you swim?'.",
+"Yardımcı fiil yoksa (Present Simple ve Past Simple), do/does/did eklenir ve ana fiil yalın kalır: 'You work here.' → 'Do you work here?'. Kısa cevapta aynı yardımcı fiil tekrarlanır: 'Yes, I do.' / 'No, she doesn't.'"],
+"formulas":[
+["Present Simple","Do/Does + özne + V1?"],
+["Past Simple","Did + özne + V1?"],
+["To be","Am/Is/Are/Was/Were + özne ...?"],
+["Present Continuous","Am/Is/Are + özne + V-ing?"],
+["Present Perfect","Have/Has + özne + V3?"],
+["Modal","Can/Could/Will/Should + özne + V1?"],
+["Kısa cevap","Yes, + özne + yardımcı fiil.  /  No, + özne + yardımcı fiil + n't."]],
+"uses":[
+{"h":"Do / Does / Did ile","t":"Ana fiilin yalın kaldığı sorular.","ex":[["Do you live near here?","Buraya yakın mı yaşıyorsun?"],["Does your boss speak Spanish?","Patronun İspanyolca konuşuyor mu?"],["Did you sleep well?","İyi uyudun mu?"]]},
+{"h":"Be fiiliyle","t":"Be fiili doğrudan başa geçer; do gerekmez.","ex":[["Are you ready?","Hazır mısın?"],["Is the bank open today?","Banka bugün açık mı?"],["Were you at home last night?","Dün gece evde miydin?"]]},
+{"h":"Present Continuous ve Present Perfect","t":"Be/have başa geçer.","ex":[["Are you working tomorrow?","Yarın çalışıyor musun?"],["Have you finished the report?","Raporu bitirdin mi?"]]},
+{"h":"Modal fiillerle","t":"Can, could, will, should doğrudan başa geçer.","ex":[["Can you drive?","Araba kullanabilir misin?"],["Will you be at the office tomorrow?","Yarın ofiste olacak mısın?"],["Should I call him?","Onu aramalı mıyım?"]]},
+{"h":"Kısa cevaplar","t":"Yes/No + özne + yardımcı fiil. Sadece 'Yes' veya 'No' demek de olur ama kısa cevap daha doğal ve nazik görünür.","ex":[["Do you like jazz? — Yes, I do.","Caz sever misin? — Evet, severim."],["Is he busy? — No, he isn't.","Meşgul mü? — Hayır, değil."],["Can she drive? — Yes, she can.","Araba kullanabilir mi? — Evet, kullanabilir."]]}],
+"forms":[
+{"h":"Düz cümleden soruya","ex":[["You work in a bank. → Do you work in a bank?","Bir bankada çalışıyorsun. → Bir bankada mı çalışıyorsun?"],["She is tired. → Is she tired?","O yorgun. → O yorgun mu?"],["They have finished. → Have they finished?","Bitirdiler. → Bitirdiler mi?"]]}],
+"words":["Do you...? — ...yapıyor musun? (genel)","Are you...? — ...misin?","Is there...? — ...var mı?","Have you ever...? — Hiç ...dın mı?","Can I...? — ...yapabilir miyim?","Would you like...? — ...ister misiniz? (kibar teklif)"],
+"dialogs":[{"h":"Yeni bir komşuyla tanışma","l":[
+["Ali","Hi! Do you live in this building?","Merhaba! Bu binada mı oturuyorsun?"],
+["Nur","Yes, I do. I moved in last week.","Evet. Geçen hafta taşındım."],
+["Ali","Is it your first time in Bursa?","Bursa'da ilk kez mi bulunuyorsun?"],
+["Nur","No, it isn't. I studied here years ago.","Hayır. Yıllar önce burada okudum."],
+["Ali","Oh, nice! Have you found a good supermarket yet?","Ne güzel! İyi bir market buldun mu henüz?"],
+["Nur","Not yet. Can you recommend one?","Henüz değil. Bir tane önerebilir misin?"]]}],
+"compare":[["wh-questions","Wh- sorularında soru sözcüğü başa gelir; ardından yardımcı fiil ve özne gelir."],["present-simple","Do/does burada soru yapar; olumlu cümledeki -s soruda does'a taşınır."]],
+"mistakes":[
+["You work here?","Do you work here?","Resmî ve yazılı İngilizcede yardımcı fiil gerekir; sadece tonlama ile soru sorma konuşmada bazen olur ama kural bu değildir."],
+["Does she works here?","Does she work here?","Does varken ana fiil -s almaz."],
+["Did you went there?","Did you go there?","Did varken ana fiil yalın kalır."],
+["Do you can swim?","Can you swim?","Modal fiillerle do kullanılmaz."],
+["Are you like coffee?","Do you like coffee?","Like ana fiildir; be fiili ile birlikte kullanılmaz."]],
+"ex":[
+{"t":"choice","q":"___ she work in a bank?","o":["Do","Does","Is","Are"],"a":1,"e":"She için Does + yalın fiil."},
+{"t":"choice","q":"___ you at home yesterday?","o":["Did","Do","Were","Are"],"a":2,"e":"Be fiilinin geçmişi: Were you...?"},
+{"t":"fill","q":"___ you speak French? (do/does)","a":["Do"],"e":"You ile Do."},
+{"t":"choice","q":"Hangisi doğru?","o":["Does he can swim?","Can he swim?","Is he can swim?","Do he can swim?"],"a":1,"e":"Modal fiil doğrudan başa geçer."},
+{"t":"tr","q":"Bu binada mı oturuyorsun?","a":["Do you live in this building","Do you live in this building?"],"e":"Present Simple sorusu: Do you live...?"},
+{"t":"fill","q":"Did you ___ (see) the film? (doğru biçimi yaz)","a":["see"],"e":"Did + V1."},
+{"t":"choice","q":"Is he busy? — No, ___.","o":["he doesn't","he isn't","he don't","he not"],"a":1,"e":"Kısa cevapta aynı yardımcı fiil: isn't."},
+{"t":"choice","q":"___ you finished the report?","o":["Do","Did","Have","Are"],"a":2,"e":"Present Perfect: Have you finished...?"}],
+"advice":"Her gün içinden bir cümle seç ve onu üç farklı soruya dönüştür: Present Simple (Do you...?), be fiiliyle (Are you...?), modal ile (Can you...?). Sonra bu soruyu yüksek sesle sorup gerçek bir cevapla yanıtla. Türkçedeki 'mi' ekini sona koyma alışkanlığından kurtulmak için soruyu her zaman 'yardımcı fiil + özne' diye aklında tut.",
+"related":["wh-questions","present-simple","past-simple","can-could"]
+}

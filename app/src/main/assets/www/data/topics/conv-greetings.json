@@ -1,0 +1,41 @@
+{
+"id":"conv-greetings","tr":"Selamlaşma ve Vedalaşma","en":"Greetings and Goodbyes","level":"A1","cat":"daily-social","o":1,
+"short":"Merhaba, nasılsın, hoş geldin, görüşürüz, kendine iyi bak: bağlama göre doğal karşılıklar.",
+"terms":["selamlaşma","vedalaşma","merhaba","nasılsın","hoş geldin","güle güle","kendine iyi bak","görüşürüz","how are you","hello","hi","goodbye","see you","take care","welcome","tanışma","nice to meet you","memnun oldum"],
+"why":"Her konuşma bir selamla başlar ve bir veda ile biter. Doğru tonu seçmek (samimi, nötr veya resmî) ilk izlenimi belirler. 'How are you?' gibi kalıpların gerçek bir soru olmadığını bilmek de çok işe yarar.",
+"explain":[
+"Selamlaşmada ton önemlidir: 'Hi' ve 'Hey' samimi, 'Hello' nötr, 'Good morning/afternoon/evening' daha nötr-resmîdir. 'Good night' ise selam değil veda ya da yatmadan önce söylenen bir sözdür.",
+"'How are you?' çoğu zaman bir selam kalıbıdır. Kısa ve olumlu cevap beklenir: 'I'm good, thanks. And you?' Uzun şikâyet anlatmak yerine 'Not bad' veya 'Can't complain' de doğaldır.",
+"Vedada 'Goodbye' biraz resmî ya da kesin ayrılık hissi verir; günlük hayatta 'Bye', 'See you later', 'Take care' çok daha yaygındır."],
+"phrases":[
+{"en":"Hi! / Hey!","tr":"Selam! / Merhaba!","use":"Arkadaşlar, tanıdıklar, günlük ortam.","reg":"samimi","ex":["Hey, Lale! Long time no see.","Selam Lale! Uzun zamandır görüşemedik."],"note":"Hey, çok samimi; patron veya yabancıya Hello / Good morning daha uygun."},
+{"en":"Hello. / Good morning. / Good afternoon.","tr":"Merhaba. / Günaydın. / İyi günler (öğleden sonra).","use":"İş yeri, mağaza, yabancılar.","reg":"nötr","ex":["Good morning, Mr. Demir. How are you today?","Günaydın Bay Demir. Bugün nasılsınız?"],"note":"Good evening: akşam selamı; Good night: veda/yatmadan önce."},
+{"en":"How are you? / How's it going? / What's up?","tr":"Nasılsın? / Nasıl gidiyor? / N'aber?","use":"Selam sonrası hal hatır sorma.","reg":"nötr / samimi","ex":["Hi Tom! How's it going?","Selam Tom! Nasıl gidiyor?"],"note":"Kalıp selamdır; çoğu kez gerçek bir sağlık raporu beklenmez. What's up? çok samimidir; cevabı 'Not much.' olabilir."},
+{"en":"I'm good, thanks. And you? / Not bad. / Can't complain.","tr":"İyiyim, teşekkürler. Ya sen? / Fena değil. / Şikâyetçi değilim.","use":"'How are you?' sorusuna cevap.","reg":"nötr / samimi","ex":["— How are you? — Pretty good, thanks. You?","— Nasılsın? — Gayet iyiyim, sağ ol. Sen?"],"note":"Karşı tarafa 'And you?' diye soruyu geri çevirmek nazik kabul edilir."},
+{"en":"Nice to meet you. / Pleased to meet you.","tr":"Memnun oldum.","use":"İlk tanışmada.","reg":"nötr / biraz resmî","ex":["Nice to meet you, Ayşe. I'm Daniel.","Memnun oldum Ayşe. Ben Daniel."],"note":"Karşılık: 'Nice to meet you, too.' 'How do you do?' çok resmî ve eski moda."},
+{"en":"Welcome! / Welcome back! / Come on in.","tr":"Hoş geldin! / Tekrar hoş geldin! / İçeri gel.","use":"Birini evde, ofiste, ülkede karşılarken.","reg":"nötr","ex":["Welcome to our home! Please come in.","Evimize hoş geldin! Lütfen içeri gel."],"note":"Karşılık: 'Thank you. It's good to be here.' 'Welcome' kendi başına bir cevap değildir; 'Hoş bulduk' yerine 'Thanks, it's great to be here' denir."},
+{"en":"Bye! / See you later. / See you tomorrow. / Talk to you soon.","tr":"Hoşça kal! / Görüşürüz. / Yarın görüşürüz. / Yakında konuşuruz.","use":"Ayrılırken.","reg":"samimi / nötr","ex":["It was nice talking to you. See you tomorrow!","Seninle konuşmak güzeldi. Yarın görüşürüz!"],"note":"'See you later' hemen sonra görüşmek zorunda olduğun anlamına gelmez; veda kalıbıdır."},
+{"en":"Take care. / Take care of yourself.","tr":"Kendine iyi bak.","use":"Ayrılırken sıcak bir veda; hasta veya uzağa giden birine.","reg":"nötr","ex":["Thanks for coming. Take care on your way home!","Geldiğin için teşekkürler. Eve dönerken kendine iyi bak!"],"note":"Karşılık: 'You too.' Türkçe 'Güle güle' için de uygundur."},
+{"en":"Goodbye. / Good night.","tr":"Hoşça kalın. / İyi geceler.","use":"Daha resmî veda; Good night akşam sonu veya yatmadan önce.","reg":"nötr / resmî","ex":["Goodbye, and thank you for your time.","Hoşça kalın, vaktiniz için teşekkürler."],"note":"Good night, gece karşılaştığında selam değildir; sadece veda sözüdür."}],
+"dialogs":[{"h":"Sabah ofiste","l":[
+["Selin","Good morning, Tom! How are you?","Günaydın Tom! Nasılsın?"],
+["Tom","Morning, Selin. I'm good, thanks. And you?","Günaydın Selin. İyiyim, sağ ol. Ya sen?"],
+["Selin","Not bad. A bit tired. This is Daniel, our new colleague.","Fena değil. Biraz yorgunum. Bu Daniel, yeni iş arkadaşımız."],
+["Tom","Nice to meet you, Daniel. Welcome to the team!","Memnun oldum Daniel. Ekibe hoş geldin!"],
+["Daniel","Thanks. It's great to be here.","Teşekkürler. Burada olmak harika."]]}],
+"compare":[["conv-thanks-apology","Selamdan sonra teşekkür ve özür kalıpları gelir."],["conv-occasions","Hoş geldin, iyi yolculuklar gibi dilekler özel durum ifadelerinde de geçer."]],
+"mistakes":[
+["Good night, Mr. Demir. (sabah ofiste)","Good morning, Mr. Demir.","Good night sadece veda ya da yatma vaktinde kullanılır."],
+["How do you do? — I'm fine.","Nice to meet you. — Nice to meet you, too.","How do you do çok resmî ve eski moda; tanışmada Nice to meet you daha doğal."],
+["How are you? — I have a headache, my cat is sick... (uzun şikâyet)","How are you? — I'm good, thanks. And you?","Selamlaşmada kısa ve olumlu cevap beklenir."],
+["Welcome! — Welcome. (cevap olarak)","Welcome! — Thank you. It's good to be here.","Welcome cevap olarak tekrar edilmez."]],
+"ex":[
+{"t":"choice","q":"Hangisi sabah ofiste patronuna söyleyeceğin en uygun selamdır?","o":["Hey, dude!","Good morning.","Good night.","What's up, mate?"],"a":1,"e":"İş yeri için nötr selam: Good morning."},
+{"t":"choice","q":"'How are you?' sorusuna doğal cevap hangisidir?","o":["I'm good, thanks. And you?","Yes, I am.","I'm twenty.","Nice to meet you."],"a":0,"e":"Kısa, olumlu cevap ve soruyu geri çevirme."},
+{"t":"choice","q":"Birini tanıştığında en doğal ifade hangisi?","o":["How do you do?","Nice to meet you.","Pleased to be see you.","Good night."],"a":1,"e":"Nice to meet you günlük hayatta en doğal kalıptır."},
+{"t":"tr","q":"Kendine iyi bak.","a":["Take care","Take care of yourself","Look after yourself"],"e":"Veda ederken sıcak bir kalıp."},
+{"t":"choice","q":"Hangisi veda için kullanılmaz?","o":["See you tomorrow.","Take care.","Good morning.","Bye!"],"a":2,"e":"Good morning selamdır; veda değil."},
+{"t":"fill","q":"Nice to meet you. — Nice to meet you, ___.","a":["too"],"e":"Karşılık: too."}],
+"advice":"Üç ton tablosu yap: samimi (Hey, What's up?), nötr (Hello, How are you?), resmî (Good morning, Mr.... ). Bir hafta boyunca gördüğün insanlara sessizce bu üç tonu uygula: arkadaşına samimi, mağazada nötr, iş yerinde resmî. 'How are you?' sorusuna bir hafta boyunca her seferinde 'I'm good, thanks. And you?' de ve ses tonunu doğal tutmak için yüksek sesle tekrar et.",
+"related":["conv-thanks-apology","conv-occasions","conv-requests","yes-no-questions"]
+}

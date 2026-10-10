@@ -1,0 +1,53 @@
+{
+"id":"future-will","tr":"Gelecek Zaman (will)","en":"Future Simple (will)","level":"A2","cat":"grammar-tenses","o":5,
+"short":"Anlık kararlar, tahminler, sözler, teklifler ve rica.",
+"terms":["gelecek zaman","future simple","will","won't","gelecek","sözverme","anlık karar","tahmin","'ll","shall","ben yaparım","future tense","probably","I think"],
+"why":"'Ben hallederim', 'Yarın yağmur yağar sanırım', 'Sana yardım edeceğim' gibi cümleler will ile kurulur. Söz vermek, teklif sunmak, bir karar vermek ve tahmin yürütmek günlük hayatın ve işin parçasıdır.",
+"explain":[
+"Will, konuşma anında verilen kararlar, sözler, teklifler ve genel tahminler için kullanılır. Tek yapısı vardır: will + yalın fiil. Tüm kişilerde aynıdır; he/she/it için -s eklenmez.",
+"Konuşmada neredeyse her zaman kısaltılır: I'll, you'll, he'll, she'll, we'll, they'll. Olumsuzu won't (will not) şeklindedir.",
+"Will, plan yapılmış şeyler için değil; o anda düşünülen ya da öngörülen şeyler için tercih edilir. Önceden planlanmış niyetler için be going to daha doğaldır."],
+"formulas":[
+["Olumlu","özne + will + V1  (I'll call you.)"],
+["Olumsuz","özne + will not / won't + V1"],
+["Evet/hayır sorusu","Will + özne + V1?"],
+["Wh- sorusu","Wh- + will + özne + V1?"],
+["Kısa cevap","Yes, I will. / No, he won't."],
+["Tahmin kalıpları","I think + will · I don't think + will · probably + will · perhaps / maybe"]],
+"uses":[
+{"h":"Anlık karar","t":"Karar tam konuşma anında verildiğinde.","ex":[["The phone is ringing. I'll get it.","Telefon çalıyor. Ben açarım."],["I'm cold. I'll close the window.","Üşüdüm. Pencereyi kapatayım."]]},
+{"h":"Söz ve teklif","t":"Birine söz verirken ya da yardım teklif ederken.","ex":[["I'll send you the file tonight, I promise.","Dosyayı bu akşam sana göndereceğim, söz."],["Don't worry. I'll help you move.","Merak etme. Taşınmana yardım ederim."]]},
+{"h":"Tahmin ve görüş","t":"Kişisel görüşe dayalı tahminler.","ex":[["I think it will rain tomorrow.","Sanırım yarın yağmur yağacak."],["She'll probably be late.","Muhtemelen geç kalacak."]]},
+{"h":"Rica ve istek","t":"Will you...? kalıbı rica anlamı taşır.","ex":[["Will you open the door for me, please?","Benim için kapıyı açar mısın lütfen?"]]},
+{"h":"Reddetme","t":"Won't, 'bir türlü yapmıyor' anlamı da taşır.","ex":[["The car won't start.","Araba çalışmıyor."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["I'll call you when I arrive.","Vardığımda seni arayacağım."],["They'll be here in ten minutes.","On dakika içinde burada olacaklar."],["Tomorrow will be sunny and warm.","Yarın güneşli ve sıcak olacak."]]},
+{"h":"Olumsuz","ex":[["I won't tell anyone.","Kimseye söylemeyeceğim."],["He won't come to the party.","Partiye gelmeyecek."],["It won't take long.","Uzun sürmez."]]},
+{"h":"Evet/hayır soruları","ex":[["Will you be at home tonight?","Bu akşam evde olacak mısın?"],["Will it rain this weekend?","Bu hafta sonu yağmur yağacak mı?"]]},
+{"h":"Wh- soruları","ex":[["What will you do after university?","Üniversiteden sonra ne yapacaksın?"],["When will the results be ready?","Sonuçlar ne zaman hazır olacak?"]]},
+{"h":"Kısa cevaplar","ex":[["Will you help me? — Yes, I will.","Bana yardım eder misin? — Evet, ederim."],["Will she come? — No, she won't.","O gelecek mi? — Hayır, gelmeyecek."]]}],
+"words":["tomorrow — yarın","next week / month / year — gelecek hafta / ay / yıl","soon — yakında","in an hour — bir saat içinde","tonight — bu akşam","probably — muhtemelen","perhaps / maybe — belki","I think / I don't think — bence / sanmıyorum","I'm sure — eminim"],
+"dialogs":[{"h":"Ofiste yardım teklifi","l":[
+["Aylin","I can't finish this presentation before the meeting.","Bu sunumu toplantıdan önce bitiremiyorum."],
+["Oğuz","Don't worry. I'll do the charts for you.","Merak etme. Grafikleri ben yaparım."],
+["Aylin","Really? Thank you so much!","Gerçekten mi? Çok teşekkürler!"],
+["Oğuz","No problem. I'll send them to you by noon.","Sorun değil. Öğlene kadar sana gönderirim."],
+["Aylin","Great. I'll buy you a coffee later.","Harika. Sonra sana bir kahve ısmarlarım."]]}],
+"compare":[["be-going-to","Önceden verilmiş karar veya şimdiki kanıta dayalı tahmin → going to. Anlık karar, söz ve görüş → will."],["future-present-forms","Kesinleşmiş randevu ve program için Present Continuous/Simple daha doğaldır."]],
+"mistakes":[
+["I will to call you.","I will call you.","Will'den sonra to gelmez; yalın fiil gelir."],
+["She will goes home.","She will go home.","Will'den sonra fiil -s almaz."],
+["If it will rain, I will stay at home.","If it rains, I will stay at home.","If ve when ile kurulan zaman cümlecikleri gelecek anlamında bile Present Simple kullanır."],
+["Will you to help me?","Will you help me?","Soruda da will + yalın fiil kullanılır."],
+["I will meeting him tomorrow.","I'll meet him tomorrow.","Will'den sonra -ing gelmez."]],
+"ex":[
+{"t":"choice","q":"A: There's no milk. B: OK, I ___ some from the shop.","o":["buy","will buy","am buying","bought"],"a":1,"e":"Anlık karar → will."},
+{"t":"fill","q":"I ___ (not/tell) anyone, I promise. (kısaltma kullan)","a":["won't tell","will not tell"],"e":"Söz: won't + V1."},
+{"t":"choice","q":"If it ___ tomorrow, we'll stay at home.","o":["will rain","rains","is raining","rained"],"a":1,"e":"If cümleciğinde gelecek için Present Simple kullanılır."},
+{"t":"choice","q":"Hangi cümle doğru?","o":["She will goes home.","She will go home.","She will to go home.","She wills go home."],"a":1,"e":"Will + yalın fiil."},
+{"t":"tr","q":"Seni vardığımda arayacağım.","a":["I'll call you when I arrive","I will call you when I arrive","I'll call you when I get there","I will call you when I get there"],"e":"When cümleciğinde Present Simple: when I arrive."},
+{"t":"fill","q":"___ you open the door, please? (will mi would mu? Yazılacak: Will)","a":["Will","Could","Would"],"e":"Rica için will/would/could kullanılabilir; bu kalıp will ile en temel halidir."},
+{"t":"choice","q":"I think it ___ rain tomorrow.","o":["is going","will","does","is"],"a":1,"e":"I think + will: görüşe dayalı tahmin."}],
+"advice":"Will'i üç işlevle ayır ve her biri için kendi hayatından örnek bul: 1) söz ('I'll call you'), 2) teklif ('I'll help you'), 3) tahmin ('I think it will...'). Gün içinde birine 'ben hallederim' demek istediğin her seferde İngilizcesini kendi kendine söyle: 'I'll do it.' If ve when cümleciklerinde will kullanmama kuralını ayrı bir not kartına yaz; Türkçeden çeviri yaparken en çok orada hata olur.",
+"related":["be-going-to","future-present-forms","present-continuous","should"]
+}

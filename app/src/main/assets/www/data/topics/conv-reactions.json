@@ -1,0 +1,40 @@
+{
+"id":"conv-reactions","tr":"Tepki ve Küçük Günlük İfadeler","en":"Reactions and Everyday Short Phrases","level":"A2","cat":"daily-occasions","o":3,
+"short":"Ciddi misin, şaka yapıyorum, acele etme, dikkat et, harika haber, yazık oldu.",
+"terms":["ciddi misin","şaka yapıyorum","acele etme","dikkat et","tepki","şaşırma","sevinme","hayal kırıklığı","are you serious","really","no way","just kidding","take your time","be careful","watch out","what a pity","that's too bad","that's great news","oh no","aynen öyle","hiç sorun değil"],
+"why":"Sohbette tepki vermek, karşı tarafı dinlediğini göstermenin en doğal yoludur. 'Really?', 'No way!', 'That's great!' gibi kısa ifadeler konuşmanın akışını sürdürür; bu kalıpların doğru tonu ise anlamı değiştirebilir.",
+"explain":[
+"Şaşırma ve ilgi göstermek için 'Really?', 'Are you serious?', 'No way!' gibi kısa tepkiler kullanılır. Bu kalıplar ses tonuna göre hem hayranlık hem şüphe anlatabilir; yüz ifadesi ve tonlama önemlidir.",
+"Sevinç ve üzüntüyü 'That's great news!' ve 'That's too bad.' gibi kalıplarla karşılarsın. Uyarı için 'Be careful' (genel), 'Watch out!' (acil) kullanılır.",
+"Telefonda ve sohbette 'Take your time' (acele etme) ve 'Just kidding' (şaka yapıyorum) gibi ifadeler tonu yumuşatır."],
+"phrases":[
+{"en":"Really? / Are you serious? / No way!","tr":"Gerçekten mi? / Ciddi misin? / Olamaz!","use":"Bir haber karşısında şaşırınca.","reg":"samimi / nötr","ex":["— I won the lottery! — Are you serious?","— Piyangoyu kazandım! — Ciddi misin?"],"note":"'No way!' hem 'inanamıyorum' hem de 'Asla!' (reddetme) anlamına gelebilir; bağlam ve ton belirler."},
+{"en":"That's great news! / That's amazing! / Wow!","tr":"Harika haber! / Müthiş! / Vay!","use":"İyi haber karşısında.","reg":"samimi / nötr","ex":["You passed the exam? That's great news!","Sınavı geçtin mi? Harika haber!"],"note":"Vurgu 'great' üzerine gelir; ton coşkuluysa daha samimi duyulur."},
+{"en":"That's too bad. / What a pity. / Oh no!","tr":"Çok yazık. / Ne yazık. / Ah, hayır!","use":"Kötü haber karşısında.","reg":"nötr / samimi","ex":["You missed the train? Oh no, that's too bad.","Treni kaçırdın mı? Ah, çok yazık."],"note":"'What a pity' biraz daha resmî ve UK kökenli; ciddi kayıp için 'I'm so sorry to hear that' daha uygun."},
+{"en":"Just kidding. / I'm joking. / I'm only joking.","tr":"Şaka yapıyorum. / Takılıyorum.","use":"Söylediğin şeyin şaka olduğunu belirtirken.","reg":"samimi","ex":["I think you should quit your job. Just kidding!","Bence işini bırakmalısın. Şaka yapıyorum!"],"note":"Ton önemli: 'I'm joking' bazen savunma gibi duyulabilir; gülümseyerek söyle."},
+{"en":"Take your time. / No rush. / There's no hurry.","tr":"Acele etme. / Telaş yok.","use":"Birine zaman tanırken.","reg":"nötr / samimi","ex":["Take your time. I'm not in a hurry.","Acele etme. Benim acelem yok."],"note":"'Take your time' ayrıca 'sakin ol, rahat ol' anlamında da kullanılır."},
+{"en":"Be careful! / Watch out! / Look out!","tr":"Dikkat et! / Dikkat!","use":"Tehlike veya uyarı.","reg":"nötr / acil","ex":["Be careful! The floor is wet.","Dikkat et! Zemin ıslak."],"note":"'Watch out!' acil ve sert; 'Be careful' genel ve yumuşak. UK'de 'Mind the gap/step' tabelalarda geçer."},
+{"en":"No problem at all. / That's fine. / Sure, no problem.","tr":"Hiç sorun değil. / Tamam, olur.","use":"Bir rica veya özür sonrası rahatlatmak.","reg":"nötr / samimi","ex":["— Can you send it by tomorrow? — Sure, no problem.","— Yarına kadar gönderebilir misin? — Tabii, sorun değil."],"note":"Bu 'No problem' hem rica kabulü hem teşekkür cevabıdır."},
+{"en":"Exactly. / That's right. / I know, right?","tr":"Aynen öyle. / Doğru. / Değil mi ya!","use":"Konuşmacıyla aynı fikirde olduğunu belirtirken.","reg":"samimi","ex":["— This traffic is terrible. — I know, right?","— Bu trafik berbat. — Değil mi ya!"],"note":"'I know, right?' çok samimi ve sohbet tonudur; resmî ortamda 'Exactly' daha uygun."}],
+"dialogs":[{"h":"İyi haber ve şaka","l":[
+["Deniz","Guess what? We're moving to Izmir next month.","Tahmin et ne oldu? Gelecek ay İzmir'e taşınıyoruz."],
+["Kaan","Are you serious? That's great news!","Ciddi misin? Harika haber!"],
+["Deniz","Yes! Just kidding about the next month — it's in March.","Evet! Gelecek ay konusunda şaka yaptım — Mart'ta."],
+["Kaan","Ha! You got me. Take your time with the packing.","Ha! Beni yakaladın. Paketlemede acele etme."],
+["Deniz","Thanks. Be careful with the boxes when you help!","Sağ ol. Yardım ederken kutulara dikkat et!"]]}],
+"compare":[["conv-opinion-advice","Katılma ve fikir bildirme kalıpları tepki ifadeleriyle sık birlikte geçer."],["conv-thanks-apology","'No problem' hem özür hem teşekkür cevabı olabilir."]],
+"mistakes":[
+["Are you serious? (alaycı ton, kızgınken)","Are you serious? (şaşkınlık tonu) / Really?","Aynı kalıp ton değişince alay ya da öfke anlatabilir."],
+["I'm kidding you.","I'm kidding. / Just kidding.","'Kid' burada nesne almadan kullanılır."],
+["Be careful the floor.","Be careful. The floor is wet. / Be careful with the floor.","Careful + with + isim veya ayrı cümle."],
+["What a pity! (ciddi bir kayıp için)","I'm so sorry to hear that.","What a pity hafif durumlar içindir; ciddi kayıp için 'I'm so sorry' kullan."]],
+"ex":[
+{"t":"choice","q":"Biri 'I won a prize!' dedi. Şaşkınlık için hangisi?","o":["Are you serious?","Get well soon!","Bless you!","Have a safe trip!"],"a":0,"e":"Şaşkınlık: Are you serious? / Really?"},
+{"t":"choice","q":"Birine zaman tanımak için ne dersin?","o":["Take your time.","Hurry up!","Be careful!","Watch out!"],"a":0,"e":"Take your time."},
+{"t":"choice","q":"Zemin ıslak. Acil uyarı için hangisi?","o":["Watch out!","Take your time!","Just kidding!","That's great news!"],"a":0,"e":"Watch out! acil uyarı."},
+{"t":"tr","q":"Şaka yapıyorum.","a":["Just kidding","I'm joking","I'm just kidding","I'm only joking"],"e":"Just kidding: samimi."},
+{"t":"choice","q":"İyi haber karşısında hangisi?","o":["That's too bad.","That's great news!","Oh no!","Be careful!"],"a":1,"e":"That's great news!"},
+{"t":"fill","q":"Take your ___. I'm not in a hurry. (time)","a":["time"],"e":"Take your time."}],
+"advice":"Bu kalıpları sevdiğin bir diziden ya da videodan canlı duyarak öğren: 10 dakikalık bir bölümde kaç kez 'Really?', 'No way!', 'Are you serious?' duyduğunu say. Her birinin ses tonunu taklit et (shadowing). Bu ifadeler kural değil, ton işidir; yazıyla değil kulakla öğrenilir.",
+"related":["conv-opinion-advice","conv-thanks-apology","conv-everyday-wishes","conv-occasions"]
+}

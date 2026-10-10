@@ -1,0 +1,51 @@
+{
+"id":"have-to","tr":"Zorunluluk: Have to / Has to / Had to","en":"Have to","level":"A2","cat":"grammar-modals","o":1,
+"short":"Dışarıdan gelen zorunluluk: kurallar, işler, programlar. Don't have to = gerek yok.",
+"terms":["have to","has to","had to","zorunda olmak","mecbur olmak","-meli -malı","zorunluluk","don't have to","doesn't have to","gerek yok","mustn't farkı","must ile have to farkı","obligation","do I have to"],
+"why":"'Erken kalkmak zorundayım', 'Bunu yapman gerekmiyor', 'Dün fazla mesai yapmak zorunda kaldım' cümleleri günlük hayatın ve iş yaşamının parçasıdır. Zorunluluk ile yasak ve gerek olmama arasındaki farkı bilmek yanlış anlaşılmaları önler.",
+"explain":[
+"Have to, kural, iş, program ya da koşullar gibi dış etkenlerden gelen zorunluluğu anlatır: 'I have to wear a uniform at work.' Türkçede 'zorunda olmak, mecbur olmak' ve çoğu zaman '-malı' ile karşılanır.",
+"He/she/it ile has to, geçmişte had to kullanılır. Olumsuz ve soruda do/does/did gelir: 'I don't have to...', 'Do you have to...?', 'She didn't have to...'.",
+"Çok önemli fark: don't have to 'yapmak zorunda değilsin, gerek yok' demektir (yasak değildir). Mustn't ise 'yapmamalısın, yasak' demektir. 'You don't have to park here' = istersen park edebilirsin ama zorunda değilsin; 'You mustn't park here' = park etmek yasak."],
+"formulas":[
+["Olumlu","I/You/We/They + have to + V1  |  He/She/It + has to + V1"],
+["Geçmiş","özne + had to + V1"],
+["Olumsuz (gerek yok)","don't / doesn't have to + V1  |  didn't have to + V1"],
+["Soru","Do/Does + özne + have to + V1?  |  Did + özne + have to + V1?"],
+["Kısa cevap","Yes, I do. / No, she doesn't."],
+["Gelecek","will have to + V1 (I'll have to leave early.)"]],
+"uses":[
+{"h":"Kural ve dış zorunluluk","t":"İş, okul, yasa veya program gereği.","ex":[["I have to wear a uniform at work.","İşte üniforma giymek zorundayım."],["Drivers have to stop at red lights.","Sürücüler kırmızı ışıkta durmak zorundadır."]]},
+{"h":"Geçmişteki zorunluluk","t":"Geçmişte yapmak zorunda kaldığın şeyler.","ex":[["I had to work late yesterday.","Dün geç saate kadar çalışmak zorunda kaldım."]]},
+{"h":"Gelecekteki zorunluluk","t":"Will have to ile.","ex":[["We'll have to leave early tomorrow.","Yarın erken ayrılmak zorunda kalacağız."]]},
+{"h":"Gerek olmaması","t":"Don't have to yasak değil, 'gerek yok' demektir.","ex":[["You don't have to come if you're tired.","Yorgunsan gelmek zorunda değilsin."],["She doesn't have to cook tonight; we're ordering pizza.","Bu akşam yemek yapmak zorunda değil; pizza söylüyoruz."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["He has to take the bus because his car is broken.","Arabası bozuk olduğu için otobüse binmek zorunda."],["We have to finish this report by Friday.","Bu raporu cumaya kadar bitirmek zorundayız."]]},
+{"h":"Olumsuz","ex":[["I don't have to get up early on Sundays.","Pazar günleri erken kalkmak zorunda değilim."],["They didn't have to pay for parking.","Park için ödeme yapmak zorunda kalmadılar."]]},
+{"h":"Soru","ex":[["Do you have to work this weekend?","Bu hafta sonu çalışmak zorunda mısın?"],["Does she have to wear glasses?","Gözlük takmak zorunda mı?"],["Why did you have to leave so early?","Neden bu kadar erken ayrılmak zorunda kaldın?"]]},
+{"h":"Kısa cevaplar","ex":[["Do you have to go? — Yes, I do.","Gitmek zorunda mısın? — Evet, zorundayım."],["Did he have to wait? — No, he didn't.","Beklemek zorunda kaldı mı? — Hayır, kalmadı."]]}],
+"words":["have to ≈ zorunda olmak (dış zorunluluk)","don't have to ≈ gerek yok, zorunda değil","mustn't ≈ yapmamalısın / yasak","need to ≈ ihtiyacın var / gerekli (daha yumuşak)","Do I have to...? — ...yapmak zorunda mıyım?"],
+"dialogs":[{"h":"Pazar günü çalışmak","l":[
+["Zeynep","Are you free on Sunday?","Pazar günü boş musun?"],
+["Okan","I'm afraid not. I have to work.","Maalesef değilim. Çalışmak zorundayım."],
+["Zeynep","Really? Do you always have to work at weekends?","Gerçekten mi? Hafta sonları hep çalışmak zorunda mısın?"],
+["Okan","No, I don't. Only this week, because we have a deadline.","Hayır. Sadece bu hafta, çünkü teslim tarihimiz var."],
+["Zeynep","OK. Then you don't have to come to the party if you're too tired.","Tamam. O zaman çok yorgunsan partiye gelmek zorunda değilsin."]]}],
+"compare":[["must","Must iç kaynaklı veya güçlü hissedilen zorunluluk; have to dış kurallar. Olumsuzda fark büyük: mustn't = yasak, don't have to = gerek yok."],["should","Should tavsiye verir, zorunluluk bildirmez."]],
+"mistakes":[
+["He have to go.","He has to go.","He/she/it ile has to kullanılır."],
+["Do you has to work?","Do you have to work?","Soruda do/does varken ana fiil yalın kalır."],
+["You don't have to smoke here. (yasak demek istiyorsan)","You mustn't smoke here.","Don't have to 'gerek yok' demektir, yasak anlamı taşımaz."],
+["I must to go now.","I have to go now. / I must go now.","Must'tan sonra to gelmez; have to ise ayrı bir kalıptır."],
+["Yesterday I must work late.","Yesterday I had to work late.","Must'ın geçmişi yoktur; geçmişte had to kullanılır."]],
+"ex":[
+{"t":"choice","q":"She ___ wear a uniform at work.","o":["have to","has to","must to","having to"],"a":1,"e":"She için has to."},
+{"t":"choice","q":"You ___ pay to enter. It's free.","o":["mustn't","don't have to","can't have","haven't to"],"a":1,"e":"Ücretsiz: gerek yok = don't have to."},
+{"t":"fill","q":"Yesterday I ___ work late. (have to — geçmiş)","a":["had to"],"e":"Geçmişte zorunluluk: had to."},
+{"t":"choice","q":"___ you have to work on Saturday?","o":["Do","Does","Did to","Are"],"a":0,"e":"You ile Do you have to...?"},
+{"t":"choice","q":"You ___ smoke in the hospital. It's forbidden.","o":["don't have to","mustn't","haven't to","doesn't have to"],"a":1,"e":"Yasak = mustn't."},
+{"t":"tr","q":"Bu raporu cumaya kadar bitirmek zorundayız.","a":["We have to finish this report by Friday","We have to finish this report by Friday.","We must finish this report by Friday"],"e":"Dış zorunluluk için have to, resmî vurguda must da olur."},
+{"t":"fill","q":"They ___ (not/pay) for parking. Park ücretsizdi. (didn't have to biçiminde, geçmiş)","a":["didn't have to","did not have to"],"e":"Geçmişte gerek yoktu: didn't have to."}],
+"advice":"Üç cümle kartı hazırla: 'I have to...' (bu hafta zorunda olduğun üç şey), 'I don't have to...' (hafta sonu yapmak zorunda olmadığın üç şey), 'You mustn't...' (üç trafik veya iş yeri yasağı). Kartları karşılaştırınca don't have to ile mustn't arasındaki farkı gerçek örneklerle hissedersin. Ezber yerine her gün birini sesli tekrar et.",
+"related":["must","should","can-could","yes-no-questions"]
+}

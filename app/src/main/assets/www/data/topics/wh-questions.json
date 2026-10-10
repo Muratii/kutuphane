@@ -1,0 +1,50 @@
+{
+"id":"wh-questions","tr":"Soru Sözcükleri (Wh- Soruları)","en":"Wh- Questions","level":"A1","cat":"grammar-structures","o":2,
+"short":"What, where, when, why, who, how, which, whose ile soru kurma.",
+"terms":["wh soruları","wh questions","what where when why who how which whose","soru sözcükleri","ne nerede ne zaman neden kim nasıl","how much how many","how long how often","what time","soru sormak","question words"],
+"why":"Bilgi istemek için ('Nerede çalışıyorsun?', 'Ne zaman geliyorsun?') soru sözcükleri gerekir. Seyahatte, işte ve günlük sohbetlerde en çok kullandığın soru tipi budur.",
+"explain":[
+"Wh- sorularında soru sözcüğü başa gelir, ardından yardımcı fiil, özne ve ana fiil sıralanır: 'Where do you work?'. Yardımcı fiil yoksa do/does/did eklenir (Present ve Past Simple).",
+"Soru sözcüğü özne ise (Who called? What happened?) do/does/did kullanılmaz; fiil doğrudan gelir: 'Who lives here?' (Who does live değil).",
+"Sık kalıplar: what time (kaçta), how much (ne kadar, sayılamayan/fiyat), how many (kaç tane), how long (ne kadar süre), how often (ne sıklıkla), how far (ne kadar uzak), how old (kaç yaşında)."],
+"formulas":[
+["Be fiili","Wh- + am/is/are/was/were + özne ...?"],
+["Present/Past Simple","Wh- + do/does/did + özne + V1?"],
+["Modal","Wh- + can/will/should + özne + V1?"],
+["Present Perfect","Wh- + have/has + özne + V3?"],
+["Soru sözcüğü özneyse","Who/What + fiil ...? (Who called you?)"]],
+"uses":[
+{"h":"What, Where, When, Why","t":"Bilgi isteme.","ex":[["What do you do?","Ne iş yapıyorsun?"],["Where did you go last summer?","Geçen yaz nereye gittin?"],["When does the shop open?","Dükkân ne zaman açılıyor?"],["Why are you learning English?","Neden İngilizce öğreniyorsun?"]]},
+{"h":"Who, Whose, Which","t":"Kişi, sahiplik ve seçim.","ex":[["Who is your manager?","Müdürün kim?"],["Whose bag is this?","Bu kimin çantası?"],["Which bus goes to the airport?","Havaalanına hangi otobüs gidiyor?"]]},
+{"h":"How kalıpları","t":"Miktar, süre, sıklık, mesafe.","ex":[["How much is this jacket?","Bu ceket ne kadar?"],["How many people are coming?","Kaç kişi geliyor?"],["How long does it take to get there?","Oraya varmak ne kadar sürer?"],["How often do you go to the gym?","Spor salonuna ne sıklıkla gidersin?"]]},
+{"h":"Soru sözcüğü özne olduğunda","t":"Do/does/did kullanılmaz.","ex":[["Who called you this morning?","Bu sabah seni kim aradı?"],["What happened?","Ne oldu?"]]}],
+"forms":[
+{"h":"Present Simple ile","ex":[["Where does she work?","O nerede çalışıyor?"],["What time do you get up?","Kaçta kalkıyorsun?"]]},
+{"h":"Past Simple ile","ex":[["What did you eat for lunch?","Öğle yemeğinde ne yedin?"],["Why did he leave early?","Neden erken ayrıldı?"]]},
+{"h":"Present Continuous / Perfect ile","ex":[["What are you reading?","Ne okuyorsun?"],["How long have you lived here?","Ne zamandır burada yaşıyorsun?"]]}],
+"words":["what — ne","where — nerede / nereye","when — ne zaman","why — neden","who — kim","whose — kimin","which — hangi / hangisi","how — nasıl","how much — ne kadar (fiyat, sayılamayan)","how many — kaç tane","how long — ne kadar süre","how often — ne sıklıkla","what time — kaçta","how old — kaç yaşında"],
+"dialogs":[{"h":"Yol sorma","l":[
+["Turist","Excuse me, where is the train station?","Pardon, tren istasyonu nerede?"],
+["Yerel","It's about ten minutes from here.","Buradan yaklaşık on dakika."],
+["Turist","How can I get there?","Oraya nasıl gidebilirim?"],
+["Yerel","You can take bus number 12. It stops right outside.","12 numaralı otobüse binebilirsiniz. Hemen dışarıda duruyor."],
+["Turist","How often does it run?","Ne sıklıkla geliyor?"],
+["Yerel","Every fifteen minutes.","On beş dakikada bir."]]}],
+"compare":[["yes-no-questions","Evet/hayır sorularında soru sözcüğü yoktur; yardımcı fiil başa gelir."],["present-simple","Wh- soruları Present Simple'da do/does ile kurulur."]],
+"mistakes":[
+["Where you live?","Where do you live?","Wh- sözcüğünden sonra yardımcı fiil gelmelidir."],
+["What you are doing?","What are you doing?","Yardımcı fiil özneden önce gelir."],
+["Who did call you?","Who called you?","Soru sözcüğü özneyse do/did kullanılmaz."],
+["How much people are there?","How many people are there?","Sayılabilen isimlerle how many."],
+["What time is open the shop?","What time does the shop open?","Open ana fiildir; does ile soru kurulur."]],
+"ex":[
+{"t":"choice","q":"___ do you work?","o":["Where","Who","Whose","How much"],"a":0,"e":"Çalışma yerini sormak: Where."},
+{"t":"fill","q":"What time ___ the shop open? (do/does)","a":["does"],"e":"The shop = it; does."},
+{"t":"choice","q":"Hangisi doğru?","o":["Who did call you?","Who called you?","Who does call you?","Who do you call?"],"a":1,"e":"Soru sözcüğü özneyse do/did gerekmez."},
+{"t":"choice","q":"___ people are coming to the party?","o":["How much","How many","How long","How often"],"a":1,"e":"Sayılabilen isimlerle how many."},
+{"t":"tr","q":"Bu ceket ne kadar?","a":["How much is this jacket","How much is this jacket?","How much does this jacket cost"],"e":"Fiyat sorusu: How much."},
+{"t":"fill","q":"___ is your birthday? (when)","a":["When"],"e":"Tarih sorusu: When."},
+{"t":"choice","q":"___ does it take to get there?","o":["How far","How long","How many","How often"],"a":1,"e":"Süre: How long."}],
+"advice":"Bir sorgu panosu yap: sayfanın ortasına 'you' yaz ve etrafına what, where, when, why, how, who sözcüklerini koy. Günün her saati için bir soru kur ('What time do you leave?', 'Where do you eat lunch?'). Sonra aynı soruları iş arkadaşına, aileden birine veya aynaya sorarak sesli söyle. Soruyu doğru kurmak için hep 'soru sözcüğü + yardımcı fiil + özne' sırasını hatırla.",
+"related":["yes-no-questions","present-simple","past-simple","present-perfect"]
+}

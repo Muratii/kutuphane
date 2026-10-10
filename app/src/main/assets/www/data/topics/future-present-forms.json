@@ -1,0 +1,47 @@
+{
+"id":"future-present-forms","tr":"Gelecek Anlatımı: Present Continuous ve Present Simple","en":"Present tenses for the future","level":"A2","cat":"grammar-tenses","o":7,
+"short":"Randevular, kesinleşmiş planlar ve tarifeler için şimdiki zaman biçimleriyle gelecek.",
+"terms":["present continuous ile gelecek","present simple ile gelecek","programlanmış gelecek","randevu","tarife","tren saati","kesinleşmiş plan","arrangement","timetable","schedule","gelecek anlatımı"],
+"why":"İngilizcede gelecekten bahsederken her zaman will kullanılmaz. Randevu, toplantı ve seyahat planı anlatırken 'I'm meeting...' ve 'The train leaves at...' çok daha doğaldır. Bu fark seni 'ders kitabı İngilizcesi'nden 'gerçek İngilizce'ye taşır.",
+"explain":[
+"Present Continuous (am/is/are + V-ing), gelecekte olacak ve artık kesinleşmiş planlar (randevu, bilet, rezervasyon, davet) için kullanılır. Genellikle zaman ifadesi de verilir: 'I'm seeing the dentist on Friday.'",
+"Present Simple, resmî bir program ya da tarifeye bağlı olaylar için kullanılır: tren, uçak, film, ders, toplantı saatleri: 'The meeting starts at 10.'",
+"Kişisel niyet için be going to, anlık karar ve söz için will daha uygundur. Aynı gelecek olayı için birden fazla biçim doğru olabilir; fark, konuşanın bakış açısındadır."],
+"formulas":[
+["Present Continuous","özne + am/is/are + V-ing + gelecek zaman ifadesi"],
+["Present Simple","özne + V1/V1-s + saat/tarih (tarife, program)"],
+["Soru (PC)","What are you doing on Saturday?"],
+["Soru (PS)","What time does the train leave?"],
+["İpucu","Kesin randevu → am meeting; resmî program → starts at; niyet → am going to; anlık karar → will"]],
+"uses":[
+{"h":"Kesinleşmiş randevu ve plan (Present Continuous)","t":"Zaman ve kişi belli, hazırlık yapıldı.","ex":[["I'm seeing the dentist on Friday at four.","Cuma günü saat dörtte dişçiye gidiyorum."],["We're flying to Antalya next Tuesday.","Gelecek salı Antalya'ya uçuyoruz."],["She's having dinner with her boss tonight.","Bu akşam patronuyla yemek yiyor."]]},
+{"h":"Tarife ve program (Present Simple)","t":"Kişisel plan değil, resmî program.","ex":[["The train to Ankara leaves at 8:15.","Ankara treni 8.15'te kalkıyor."],["The meeting starts at ten tomorrow.","Toplantı yarın onda başlıyor."],["Our flight arrives at 6 p.m.","Uçağımız akşam altıda iniyor."]]},
+{"h":"Zaman cümleciklerinde (when, if, as soon as)","t":"Gelecekten bahsederken bile bu bağlaçlardan sonra will kullanılmaz.","ex":[["I'll call you when I get home.","Eve vardığımda seni ararım."],["If you need help, just ask.","Yardıma ihtiyacın olursa sadece sor."]]}],
+"forms":[
+{"h":"Present Continuous ile","ex":[["I'm not working on Saturday.","Cumartesi çalışmıyorum."],["Are you meeting Ayşe this evening?","Bu akşam Ayşe'yle buluşuyor musun?"],["What are you doing this weekend?","Bu hafta sonu ne yapıyorsun?"]]},
+{"h":"Present Simple ile","ex":[["The shop doesn't open until nine.","Dükkân dokuza kadar açılmıyor."],["What time does the film begin?","Film kaçta başlıyor?"],["The course ends in June.","Kurs haziranda bitiyor."]]}],
+"words":["tonight / tomorrow / next week — bu akşam / yarın / gelecek hafta","on Friday / at 6 p.m. — cuma günü / akşam altıda","this weekend — bu hafta sonu","timetable / schedule — tarife, program","appointment — randevu (doktor, resmî)","arrangement — kesinleşmiş düzenleme"],
+"dialogs":[{"h":"Gelecek hafta için plan yapma","l":[
+["Ela","Are you free next Thursday?","Gelecek perşembe boş musun?"],
+["Berk","No, I'm seeing the dentist in the morning. Why?","Hayır, sabah dişçiye gidiyorum. Neden?"],
+["Ela","We're having a small party at our place in the evening.","Akşam bizde küçük bir parti veriyoruz."],
+["Berk","What time does it start?","Kaçta başlıyor?"],
+["Ela","Around eight. Can you come?","Sekiz gibi. Gelebilir misin?"],
+["Berk","Sure. My appointment finishes at noon, so I'll be free.","Tabii. Randevum öğlen bitiyor, o yüzden boş olurum."]]}],
+"compare":[["be-going-to","'I'm going to see the dentist' niyeti, 'I'm seeing the dentist on Friday' kesinleşmiş randevuyu vurgular."],["future-will","Anlık karar ve söz → will; kesinleşmiş randevu → Present Continuous."]],
+"mistakes":[
+["I will meet him at 6 tonight. (randevu zaten ayarlandıysa)","I'm meeting him at 6 tonight.","Kesinleşmiş randevuda Present Continuous daha doğaldır."],
+["The train will leave at 8.","The train leaves at 8.","Tarife için Present Simple kullanılır."],
+["I'll call you when I will arrive.","I'll call you when I arrive.","When/if/as soon as cümleciğinde will kullanılmaz."],
+["I'm having a meeting yesterday.","I had a meeting yesterday.","Geçmiş zamanı Present Continuous ile söyleme."],
+["I'm knowing the answer tomorrow.","I'll know the answer tomorrow.","Durum fiilleri (know) -ing almaz; gelecek için will kullanılır."]],
+"ex":[
+{"t":"choice","q":"I ___ the dentist on Friday at four. (randevu alındı)","o":["see","am seeing","will see","saw"],"a":1,"e":"Kesinleşmiş randevu → Present Continuous."},
+{"t":"choice","q":"The train ___ at 8:15 tomorrow.","o":["is leaving","leaves","will leaving","leave"],"a":1,"e":"Tarife → Present Simple (train = it)."},
+{"t":"choice","q":"What time ___ the film begin?","o":["do","does","is","will to"],"a":1,"e":"The film = it; tarife sorusu Present Simple ile kurulur: does + begin."},
+{"t":"choice","q":"I'll call you when I ___ home.","o":["will get","get","am getting","got"],"a":1,"e":"When cümleciğinde Present Simple kullanılır."},
+{"t":"tr","q":"Bu akşam patronuyla yemek yiyor.","a":["She's having dinner with her boss tonight","She is having dinner with her boss tonight","He's having dinner with his boss tonight","He is having dinner with his boss tonight"],"e":"Kesinleşmiş plan → Present Continuous."},
+{"t":"choice","q":"Hangisi tarifeye bağlı bir olaydır?","o":["I'm meeting Ali at six.","The meeting starts at ten.","I'm going to learn French.","I'll help you."],"a":1,"e":"Resmî program → Present Simple."}],
+"advice":"Takvimine bak ve önümüzdeki hafta için üç gerçek randevunu İngilizce yaz: 'I'm seeing... on...', 'I'm meeting... at...'. Sonra internetten bir tren ya da uçuş saatine bak ve 'The train leaves at...' cümlesini kur. Bu iki cümle tipini karşılaştırmak, hangi gelecek biçiminin ne zaman seçileceğini otomatikleştirir.",
+"related":["be-going-to","future-will","present-continuous","present-simple"]
+}

@@ -1,0 +1,49 @@
+{
+"id":"must","tr":"Gereklilik ve Kesin Çıkarım: Must / Mustn't","en":"Must / Mustn't","level":"A2","cat":"grammar-modals","o":2,
+"short":"Güçlü gereklilik, yasak (mustn't) ve kesin çıkarım (He must be tired).",
+"terms":["must","mustn't","must not","-meli -malı","gereklilik","yasak","kesin çıkarım","olmalı","must be","must have","mustn't ile don't have to farkı","must ile have to farkı","zorunluluk"],
+"why":"Hem 'Yarın erken kalkmalıyım' gibi güçlü gerekliliği, hem 'Burada park etmemelisin' gibi yasakları, hem de 'Çok yorgun olmalı' gibi çıkarımları anlatır. Tabelalarda, kurallarda ve günlük sohbette karşına çıkar.",
+"explain":[
+"Must iki ana iş yapar. (1) Gereklilik/yasak: konuşanın kendi hissettiği güçlü gereklilik veya resmî yasaklar ('I must call my mother', 'You mustn't use your phone here'). (2) Kesin çıkarım: elindeki ipuçlarına bakıp bir şeyin neredeyse kesin doğru olduğunu söylemek ('He must be tired').",
+"Must'tan sonra yalın fiil gelir, to gelmez, kişiye göre değişmez (he must go). Geçmişi yoktur; geçmişte zorunluluk için had to kullanılır.",
+"Olumsuzda dikkat: mustn't = yasak ('yapmamalısın'). Gerek olmadığını söylemek için don't have to kullanılır. Çıkarımın olumsuzu mustn't değil can't'tir: 'He can't be at home' = evde olamaz."],
+"formulas":[
+["Olumlu","özne + must + V1"],
+["Olumsuz (yasak)","özne + must not (mustn't) + V1"],
+["Soru","Must + özne + V1?  (resmî, nadir; günlük dilde Do I have to...? tercih edilir)"],
+["Çıkarım (olumlu)","must + be / V1  (She must be at work.)"],
+["Çıkarım (olumsuz)","can't + be / V1  (She can't be at work.)"],
+["Geçmiş çıkarım","must have + V3  (He must have forgotten.)"]],
+"uses":[
+{"h":"Güçlü kişisel gereklilik","t":"Konuşanın kendi kararı veya güçlü hissi.","ex":[["I must call my mother tonight.","Bu akşam annemi aramalıyım."],["We must leave now, or we'll miss the train.","Hemen çıkmalıyız, yoksa treni kaçıracağız."]]},
+{"h":"Yasak ve kurallar","t":"Tabela, yönetmelik ve uyarılarda.","ex":[["You mustn't use your phone during the exam.","Sınav sırasında telefon kullanmamalısın."],["Visitors must sign in at the front desk.","Ziyaretçiler resepsiyonda kayıt yaptırmalıdır."]]},
+{"h":"Kesin çıkarım","t":"Elindeki kanıta bakarak yapılan yüksek olasılıklı çıkarım.","ex":[["He's been working since six. He must be tired.","Altıdan beri çalışıyor. Yorgun olmalı."],["That can't be right. The price is too low.","Bu doğru olamaz. Fiyat çok düşük."],["She must have missed the bus.","Otobüsü kaçırmış olmalı."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["You must see this film. It's fantastic.","Bu filmi mutlaka görmelisin. Harika."],["I must remember to buy milk.","Süt almayı hatırlamalıyım."]]},
+{"h":"Olumsuz","ex":[["You mustn't touch the machine.","Makineye dokunmamalısın."],["We mustn't be late for the interview.","Mülakata geç kalmamalıyız."]]},
+{"h":"Soru","ex":[["Must I fill in this form now?","Bu formu şimdi doldurmak zorunda mıyım?"],["Do I have to fill in this form?","Bu formu doldurmak zorunda mıyım?"]]}],
+"words":["must ≈ -meli, -malı (güçlü gereklilik)","mustn't ≈ yapmamalısın, yasak","must be ≈ olmalı (çıkarım)","can't be ≈ olamaz (çıkarım)","must have + V3 ≈ -miş olmalı","have to ≈ dış zorunluluk","don't have to ≈ gerek yok"],
+"dialogs":[{"h":"Bir tahminde bulunmak","l":[
+["Ece","Mert isn't answering his phone.","Mert telefonuna cevap vermiyor."],
+["Kerem","He must be in a meeting.","Toplantıda olmalı."],
+["Ece","Maybe. But he never goes to meetings on Fridays.","Belki. Ama cuma günleri hiç toplantıya girmez."],
+["Kerem","Then he must be driving.","O zaman araba sürüyor olmalı."],
+["Ece","He can't be driving. His car is here!","Araba süremez. Arabası burada!"]]}],
+"compare":[["have-to","Have to dış kurallardan gelen zorunluluk; must konuşanın hissi veya resmî yasak. Olumsuzda: mustn't = yasak, don't have to = gerek yok."],["should","Should tavsiye (-meli, -malısın); must daha güçlü, neredeyse kesin gereklilik."],["can-could","Çıkarımın olumsuzu mustn't değil can't'tir."]],
+"mistakes":[
+["You don't must smoke here.","You mustn't smoke here.","Must'ın olumsuzu mustn't; don't must yoktur."],
+["He musts go.","He must go.","Must kişiye göre değişmez."],
+["I must to go.","I must go.","Must'tan sonra to gelmez."],
+["Yesterday I must work late.","Yesterday I had to work late.","Must'ın geçmişi yoktur; had to kullanılır."],
+["She mustn't be at home. (Evde olamaz demek istiyorsan)","She can't be at home.","Çıkarımın olumsuzu can't'tir; mustn't yasak anlamına gelir."]],
+"ex":[
+{"t":"choice","q":"You ___ use your phone in the exam. It's forbidden.","o":["don't have to","mustn't","needn't to","haven't to"],"a":1,"e":"Yasak = mustn't."},
+{"t":"choice","q":"He has worked all day. He ___ be tired.","o":["must","mustn't","can't","has to"],"a":0,"e":"Kesin çıkarım = must be."},
+{"t":"choice","q":"She ___ be at home. I saw her at the office five minutes ago.","o":["must","can't","mustn't","has to"],"a":1,"e":"Çıkarımın olumsuzu can't."},
+{"t":"fill","q":"Yesterday I ___ work late. (must'ın geçmişi — iki sözcük)","a":["had to"],"e":"Must'ın geçmişi yoktur; had to."},
+{"t":"choice","q":"Hangi cümle doğru?","o":["He musts go.","He must to go.","He must go.","He must goes."],"a":2,"e":"Must + yalın fiil."},
+{"t":"tr","q":"Bu filmi mutlaka görmelisin.","a":["You must see this film","You must see this movie","You have to see this film","You have to see this movie"],"e":"Güçlü öneri için must veya have to kullanılır."},
+{"t":"choice","q":"Which one means 'gerek yok'?","o":["You mustn't go.","You don't have to go.","You can't go.","You must go."],"a":1,"e":"Don't have to: gerek yok."}],
+"advice":"Üç ayrı kutu aç: 'Yasak' (mustn't), 'Gerek yok' (don't have to) ve 'Tahmin' (must be / can't be). Çevrendeki tabelalardan ve kurallardan ilk kutuya, kendi rahat olduğun işlerden ikinci kutuya, arkadaşların hakkında kurduğun çıkarımlardan üçüncü kutuya cümle yaz. Bir arkadaşın telefona cevap vermediğinde 'He must be in a meeting' demeyi bir alışkanlık yap.",
+"related":["have-to","should","can-could","present-perfect"]
+}

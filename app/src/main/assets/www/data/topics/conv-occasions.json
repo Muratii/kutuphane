@@ -1,0 +1,40 @@
+{
+"id":"conv-occasions","tr":"Kutlama, Dilek ve Yolculuk İfadeleri","en":"Congratulations, Best Wishes and Travel Wishes","level":"A2","cat":"daily-occasions","o":2,
+"short":"Tebrik, doğum günü, iyi şanslar, iyi yolculuklar, iyi dinlenmeler, iyi eğlenceler.",
+"terms":["tebrik","tebrikler","kutlama","doğum günü","doğum günün kutlu olsun","iyi şanslar","iyi yolculuklar","iyi dinlenmeler","iyi eğlenceler","congratulations","happy birthday","good luck","safe trip","have fun","enjoy","have a good rest","bon voyage","safe travels","best wishes","dilekler"],
+"why":"Arkadaşının terfisini kutlamak, birinin yolculuğunu uğurlamak veya bir sınav öncesi şans dilemek sosyal hayatın parçasıdır. Doğru kalıplar, sıcaklığını doğal bir şekilde iletir.",
+"explain":[
+"Kutlama ifadelerinde 'Congratulations!' (başarı için) ve 'Happy birthday!' (doğum günü için) temel kalıplardır. 'Congratulations' çoğul biçimde yazılır ve sondaki -s unutulmaz.",
+"Dilek kalıpları sık sık 'Have a + sıfat + isim' yapısındadır: Have a great weekend! / Have a safe trip! / Have a good rest! Karşılık: 'Thanks, you too!'",
+"Şans dilerken 'Good luck!' ya da 'Best of luck!' kullanılır; 'Fingers crossed!' (parmaklarım çapraz) samimi bir ifadedir."],
+"phrases":[
+{"en":"Congratulations! / Congrats! / Well done!","tr":"Tebrikler! / Aferin! / Tebrik ederim!","use":"Terfi, mezuniyet, nişan, başarı gibi durumlarda.","reg":"nötr / samimi","ex":["Congratulations on your new job!","Yeni işin için tebrikler!"],"note":"Kutlanan şey 'on' ile söylenir: Congratulations on your promotion. 'Congrats' samimi kısaltmadır."},
+{"en":"Happy birthday! / Many happy returns.","tr":"Doğum günün kutlu olsun!","use":"Doğum gününde.","reg":"nötr / biraz resmî","ex":["Happy birthday! I hope you have a wonderful day.","Doğum günün kutlu olsun! Umarım harika bir gün geçirirsin."],"note":"'Many happy returns' eski moda UK ifadesidir; günlük hayatta 'Happy birthday' yeterli."},
+{"en":"Good luck! / Best of luck! / Fingers crossed!","tr":"İyi şanslar! / Bol şans! / Parmaklarım çapraz!","use":"Sınav, mülakat veya önemli bir iş öncesi.","reg":"nötr / samimi","ex":["Good luck with your interview tomorrow. I'll keep my fingers crossed!","Yarınki mülakatında iyi şanslar. Parmaklarım çapraz olacak!"],"note":"Tiyatro ve sahne dünyasında 'Break a leg' denir; ama günlük konuşmada 'Good luck' daha güvenli."},
+{"en":"Have a safe trip! / Safe travels! / Bon voyage!","tr":"İyi yolculuklar!","use":"Birini yolculuğa uğurlarken.","reg":"nötr / biraz kibar","ex":["Have a safe trip and call me when you arrive.","İyi yolculuklar, vardığında beni ara."],"note":"'Bon voyage' Fransızcadan alıntıdır ve bazen şakacı ya da resmî duyulur."},
+{"en":"Have a good rest. / Get some rest. / Sleep well.","tr":"İyi dinlenmeler. / İyi uykular.","use":"Birinin yorgun olduğunu bilirken veya akşam ayrılırken.","reg":"nötr / samimi","ex":["You look tired. Go home and get some rest.","Yorgun görünüyorsun. Eve git ve biraz dinlen."],"note":"'Good night' sadece akşam vedasıdır; 'Have a good rest' iş günü sonrası da kullanılır."},
+{"en":"Have fun! / Enjoy yourself! / Have a great time!","tr":"İyi eğlenceler!","use":"Parti, konser veya tatile giden birine.","reg":"samimi / nötr","ex":["Have a great time at the concert!","Konserde iyi eğlenceler!"],"note":"Karşılık: 'Thanks, we will!' ya da 'Thanks, you too!'."},
+{"en":"Have a great weekend! / Have a nice day!","tr":"İyi hafta sonları! / İyi günler!","use":"Ayrılırken genel dilek.","reg":"nötr","ex":["See you on Monday. Have a great weekend!","Pazartesi görüşürüz. İyi hafta sonları!"],"note":"Karşılık: 'Thanks, you too!'."},
+{"en":"Best wishes. / All the best.","tr":"En iyi dileklerimle. / Her şey gönlünce olsun.","use":"Kart, mesaj, e-posta kapanışı.","reg":"nötr / resmî","ex":["All the best with your new job!","Yeni işinde her şey gönlünce olsun!"],"note":"E-posta kapanışında 'Best wishes' veya 'All the best' sık kullanılır."}],
+"dialogs":[{"h":"Arkadaşın terfisini kutlama","l":[
+["Aylin","Guess what? I got the promotion!","Tahmin et ne oldu? Terfi aldım!"],
+["Cem","Congratulations! That's fantastic news!","Tebrikler! Harika haber!"],
+["Aylin","Thanks. I'm flying to London next week to meet the team.","Teşekkürler. Gelecek hafta ekiple tanışmak için Londra'ya uçuyorum."],
+["Cem","Have a safe trip! And good luck with the meetings.","İyi yolculuklar! Ve toplantılarda iyi şanslar."],
+["Aylin","Thanks, you too. Have a great weekend!","Teşekkürler, sana da. İyi hafta sonları!"]]}],
+"compare":[["conv-everyday-wishes","Hastalık ve yemek dilekleri ayrı bir kalıp grubudur."],["conv-greetings","Veda sırasında iyi dilekler eklemek nezaket gösterir."]],
+"mistakes":[
+["Congratulation!","Congratulations!","Congratulations hep çoğul yazılır."],
+["Congratulations for your new job!","Congratulations on your new job!","Kutlanan şey 'on' ile bağlanır."],
+["Good trip!","Have a good trip! / Safe travels!","Kalıp 'Have a + sıfat + isim' biçimindedir."],
+["Happy birthday for you!","Happy birthday!","'For you' eklenmez; doğal biçim Happy birthday."]],
+"ex":[
+{"t":"choice","q":"Arkadaşın terfi aldı. Ne dersin?","o":["Congratulations!","Get well soon!","Bless you!","Enjoy your meal!"],"a":0,"e":"Başarı → Congratulations."},
+{"t":"choice","q":"Hangisi doğru?","o":["Congratulation on your job!","Congratulations on your job!","Congratulations for your job!","Congratulation for your job!"],"a":1,"e":"Congratulations on..."},
+{"t":"choice","q":"Uçağa binecek birine ne dersin?","o":["Safe travels!","Happy birthday!","Bless you!","Good morning!"],"a":0,"e":"Yolculuk için Safe travels / Have a safe trip."},
+{"t":"tr","q":"Yarınki mülakatında iyi şanslar.","a":["Good luck with your interview tomorrow","Good luck with your interview tomorrow.","Best of luck with your interview tomorrow"],"e":"Good luck with + isim."},
+{"t":"choice","q":"'Have a great weekend!' cevabı?","o":["Thanks, you too!","You're welcome!","Sorry!","Happy birthday!"],"a":0,"e":"Thanks, you too."},
+{"t":"fill","q":"Have a ___ time at the concert! (great)","a":["great","good","wonderful","nice"],"e":"Have a great/good time."}],
+"advice":"Telefonunda 'Dilek kartı' diye bir not oluştur: tebrik, doğum günü, yolculuk, şans ve hafta sonu dilekleri için birer cümle yaz. Önümüzdeki bir haftada sosyal medyada ya da mesajla birine bu kalıplardan birini İngilizce yazarak gönder. Gerçek bir kişiye yazmak, ezberi kullanıma çevirir.",
+"related":["conv-everyday-wishes","conv-greetings","conv-thanks-apology","conv-reactions"]
+}

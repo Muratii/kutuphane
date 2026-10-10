@@ -1,0 +1,52 @@
+{
+"id":"can-could","tr":"Yetenek, İzin ve Rica: Can / Could","en":"Can / Can't / Could / Couldn't","level":"A1","cat":"grammar-modals","o":4,
+"short":"Yapabilmek, izin istemek, kibar rica etmek ve olasılık: Can I...? Could you...?",
+"terms":["can","can't","cannot","could","couldn't","yapabilmek","-ebilmek","izin istemek","rica etmek","kibar rica","could you help me","can ile could farkı","yetenek","olasılık","permission","request","Could you help me?"],
+"why":"Birinden yardım istemek, izin almak, bir şeyi yapıp yapamadığını söylemek günlük hayatın temelidir. 'Could you help me?' gibi cümleler kibar konuşmanın anahtarıdır.",
+"explain":[
+"Can; yetenek ('I can swim'), izin ('Can I sit here?'), rica ('Can you help me?') ve olasılık için kullanılır. Could ise iki şeyi anlatır: geçmişteki genel yetenek ('I could swim when I was five') ve daha kibar rica/izin ('Could you help me?').",
+"Yapı: can/could + yalın fiil. Kişiye göre değişmez (he can), to almaz. Olumsuzu can't (cannot) ve couldn't'tır. Soruda başa geçer: Can I...? Could you...?",
+"Can ile could farkı: 'Can you open the window?' günlük ve samimi; 'Could you open the window?' daha kibar. Yabancılara, iş yerinde ve resmî durumlarda could tercih edilir. Geçmişte belirli tek bir başarı için could değil was able to kullanılır: 'I was able to finish it yesterday.' Olumsuzda ise couldn't her iki durumda da kullanılabilir."],
+"formulas":[
+["Olumlu","özne + can/could + V1"],
+["Olumsuz","özne + can't (cannot) / couldn't + V1"],
+["Soru","Can/Could + özne + V1?"],
+["Rica","Can you...? (samimi) · Could you...? (kibar) · Would you mind...? (çok kibar)"],
+["İzin","Can I...? · Could I...? · May I...? (resmî)"],
+["Kısa cevap","Yes, I can. / No, I can't. / Yes, of course."]],
+"uses":[
+{"h":"Yetenek","t":"Şu anda yapabildiğin şeyler.","ex":[["I can speak a little English.","Biraz İngilizce konuşabiliyorum."],["She can't drive yet.","O henüz araba kullanamıyor."]]},
+{"h":"Geçmişteki yetenek","t":"Could ile geçmişteki genel yetenek.","ex":[["I could run very fast when I was young.","Gençken çok hızlı koşabilirdim."],["We couldn't find a parking space.","Park yeri bulamadık."]]},
+{"h":"İzin istemek","t":"Can I...? samimi, Could I...? daha kibar, May I...? resmî.","ex":[["Can I use your phone, please?","Telefonunu kullanabilir miyim lütfen?"],["Could I ask you a question?","Sana bir şey sorabilir miyim?"]]},
+{"h":"Rica etmek","t":"Could you...? kibar tonu için tercih edilir.","ex":[["Could you help me with this form?","Bu formu doldururken bana yardım edebilir misiniz?"],["Can you pass me the salt, please?","Tuzu uzatabilir misin lütfen?"]]},
+{"h":"Olasılık","t":"Can, genel olasılık; could, 'olabilir' gibi daha zayıf olasılık.","ex":[["It could rain later, so take an umbrella.","Daha sonra yağmur yağabilir, o yüzden şemsiye al."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["He can play the piano very well.","Piyanoyu çok iyi çalabiliyor."],["We could see the sea from our room.","Odamızdan denizi görebiliyorduk."]]},
+{"h":"Olumsuz","ex":[["I can't hear you. The line is bad.","Seni duyamıyorum. Hat kötü."],["They couldn't come because they were ill.","Hasta oldukları için gelemediler."]]},
+{"h":"Soru","ex":[["Can you swim?","Yüzebilir misin?"],["Could you speak more slowly, please?","Biraz daha yavaş konuşabilir misiniz lütfen?"]]},
+{"h":"Kısa cevaplar","ex":[["Can you help me? — Yes, of course.","Bana yardım edebilir misin? — Evet, tabii."],["Could you wait a moment? — Sure.","Bir dakika bekleyebilir misiniz? — Tabii."]]}],
+"words":["can ≈ -ebilmek (yetenek, izin, rica)","can't / cannot ≈ -ememek","could ≈ -ebilirdi (geçmiş) / kibar rica","couldn't ≈ -ememişti","be able to ≈ -ebilmek (tek bir başarı, gelecek)","Could you help me? ≈ Bana yardım edebilir misiniz? (kibar)"],
+"dialogs":[{"h":"Yardım istemek","l":[
+["Müşteri","Excuse me, could you help me, please?","Pardon, bana yardım edebilir misiniz lütfen?"],
+["Görevli","Of course. What can I do for you?","Tabii. Sizin için ne yapabilirim?"],
+["Müşteri","I can't find the ticket machine.","Bilet makinesini bulamıyorum."],
+["Görevli","It's over there, next to the exit.","Şurada, çıkışın yanında."],
+["Müşteri","Thank you. Could you also tell me which platform the train to Bursa leaves from?","Teşekkürler. Bursa treninin hangi perondan kalktığını da söyleyebilir misiniz?"]]}],
+"compare":[["should","Can/could yapabilmekle ilgilidir; should tavsiyedir."],["have-to","Can I...? izin ister; Do I have to...? zorunluluk sorar."]],
+"mistakes":[
+["He cans swim.","He can swim.","Can kişiye göre değişmez."],
+["I can to swim.","I can swim.","Can'den sonra to gelmez."],
+["Do you can help me?","Can you help me?","Can kendi başına yardımcı fiildir; do almaz."],
+["Yesterday I can finish the work. (bir kez başardıysan)","Yesterday I was able to finish the work.","Belirli geçmiş başarı için was able to kullanılır."],
+["Could you to help me?","Could you help me?","Could'tan sonra to gelmez."]],
+"ex":[
+{"t":"choice","q":"___ you help me with this form, please? (kibar)","o":["Could","Do","Are","Have"],"a":0,"e":"Kibar rica için Could you...?"},
+{"t":"fill","q":"I ___ hear you. The line is bad. (can't)","a":["can't","cannot"],"e":"Olumsuz: can't."},
+{"t":"choice","q":"She ___ speak three languages.","o":["can","cans","can to","is can"],"a":0,"e":"Can + yalın fiil."},
+{"t":"choice","q":"When I was young, I ___ run very fast.","o":["can","could","am able","will"],"a":1,"e":"Geçmişteki yetenek: could."},
+{"t":"tr","q":"Bana yardım edebilir misiniz lütfen?","a":["Could you help me please","Could you help me, please","Can you help me please","Can you help me, please"],"e":"Kibar rica: Could you...?"},
+{"t":"choice","q":"Hangisi izin istemek için kullanılan resmî kalıptır?","o":["Can I?","May I?","Do I can?","Am I can?"],"a":1,"e":"May I...? resmî izin kalıbıdır."},
+{"t":"choice","q":"Yesterday I finally ___ finish the project.","o":["could","was able to","can","am able"],"a":1,"e":"Tek seferlik geçmiş başarı: was able to."}],
+"advice":"Gün içinde bir şey istediğin her an İngilizcesini düşün: kantinde 'Could I have a tea, please?', iş arkadaşından yardım isterken 'Could you help me with this?'. Önce samimi (Can you...?), sonra kibar (Could you...?) versiyonunu söyle ve farkı kulağınla duy. Rica kalıplarını aynaya ya da telefon kaydına yüksek sesle okumak (shadowing) tonu oturtur.",
+"related":["should","must","have-to","yes-no-questions"]
+}

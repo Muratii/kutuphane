@@ -1,0 +1,51 @@
+{
+"id":"be-going-to","tr":"Gelecek: Planlar ve Belirtiler (be going to)","en":"Be going to","level":"A2","cat":"grammar-tenses","o":6,
+"short":"Önceden verilmiş kararlar, niyetler ve şimdiki kanıta dayalı tahminler.",
+"terms":["be going to","going to","gonna","gelecek zaman","plan","niyet","yapacağım","yakında olacak","kanıta dayalı tahmin","niyet bildirmek"],
+"why":"'Hafta sonu yürüyüşe çıkacağım', 'Yağmur yağacak galiba (bulutlar çok karardı)' gibi plan ve niyetleri anlatmak için kullanılır. Günlük konuşmada will'den daha sık duyulur.",
+"explain":[
+"Be going to iki iş yapar: (1) konuşmadan önce verilmiş plan ve niyetleri anlatır; (2) şu anda görülen bir kanıta dayanarak yakın geleceği tahmin eder.",
+"Yapı: am/is/are + going to + yalın fiil. Konuşma dilinde 'going to' çoğunlukla 'gonna' diye telaffuz edilir; yazıda ve resmî dilde 'going to' yazılır.",
+"Will ile fark: 'I'll call him' (şimdi karar verdim) / 'I'm going to call him' (zaten aramayı planlıyorum)."],
+"formulas":[
+["Olumlu","özne + am/is/are + going to + V1"],
+["Olumsuz","özne + am/is/are + not + going to + V1"],
+["Evet/hayır sorusu","Am/Is/Are + özne + going to + V1?"],
+["Wh- sorusu","Wh- + am/is/are + özne + going to + V1?"],
+["Kısa cevap","Yes, I am. / No, she isn't."],
+["Dikkat","going to + fiil (plan)  ≠  going to + yer (I'm going to Izmir = İzmir'e gidiyorum)"]],
+"uses":[
+{"h":"Plan ve niyet","t":"Önceden karar verilmiş şeyler.","ex":[["I'm going to start a new course next month.","Gelecek ay yeni bir kursa başlayacağım."],["We're going to repaint the living room this weekend.","Bu hafta sonu oturma odasını yeniden boyayacağız."]]},
+{"h":"Şimdiki kanıta dayalı tahmin","t":"Gördüğün ya da bildiğin bir işaret var.","ex":[["Look at those clouds. It's going to rain.","Şu bulutlara bak. Yağmur yağacak."],["Be careful! You're going to fall.","Dikkat et! Düşeceksin."]]},
+{"h":"Yakın gelecek","t":"Çok yakında olacak şeyler.","ex":[["The film is going to start in five minutes.","Film beş dakika içinde başlayacak."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["She's going to visit her grandparents on Sunday.","Pazar günü büyükanne ve büyükbabasını ziyaret edecek."],["I'm going to cook dinner tonight.","Bu akşam yemek yapacağım."],["They're going to move to a bigger flat.","Daha büyük bir daireye taşınacaklar."]]},
+{"h":"Olumsuz","ex":[["I'm not going to buy that car.","O arabayı almayacağım."],["He isn't going to join us tonight.","Bu akşam bize katılmayacak."],["We aren't going to travel this summer.","Bu yaz seyahat etmeyeceğiz."]]},
+{"h":"Evet/hayır soruları","ex":[["Are you going to apply for the job?","Bu işe başvuracak mısın?"],["Is it going to be cold tomorrow?","Yarın hava soğuk mu olacak?"]]},
+{"h":"Wh- soruları","ex":[["What are you going to do this weekend?","Bu hafta sonu ne yapacaksın?"],["Who is she going to invite?","Kimi davet edecek?"]]},
+{"h":"Kısa cevaplar","ex":[["Are you going to call him? — Yes, I am.","Onu arayacak mısın? — Evet, arayacağım."],["Is he going to stay? — No, he isn't.","O kalacak mı? — Hayır, kalmayacak."]]}],
+"words":["tonight — bu akşam","tomorrow — yarın","this weekend — bu hafta sonu","next month / year — gelecek ay / yıl","soon — yakında","in a few minutes — birkaç dakika içinde","gonna — going to'nun konuşma dilindeki telaffuzu (yazıda kullanılmaz)"],
+"dialogs":[{"h":"Hafta sonu planları","l":[
+["Merve","What are you going to do this weekend?","Bu hafta sonu ne yapacaksın?"],
+["Can","I'm going to visit my parents in Bursa. And you?","Bursa'da anne babamı ziyaret edeceğim. Ya sen?"],
+["Merve","I'm going to stay at home and finish a book.","Evde kalıp bir kitabı bitireceğim."],
+["Can","Aren't you going to go out at all?","Hiç dışarı çıkmayacak mısın?"],
+["Merve","Maybe on Sunday. I'm going to meet Zeynep for coffee.","Belki pazar günü. Zeynep'le kahve içmek için buluşacağım."]]}],
+"compare":[["future-will","Anlık karar, söz, görüş → will. Önceden verilmiş plan, belirtiye dayalı tahmin → going to."],["future-present-forms","'I'm meeting Ali at 6' gibi kesinleşmiş randevuda Present Continuous daha doğaldır; going to daha genel niyeti anlatır."]],
+"mistakes":[
+["I going to buy a car.","I'm going to buy a car.","Am/is/are düşürülemez."],
+["She is going to rains.","It's going to rain.","Going to'dan sonra yalın fiil gelir."],
+["I'm going to to Izmir.","I'm going to Izmir.","Yer söylerken tek to yeterlidir; fiilden önce to + fiil gelir."],
+["Are you going to going out?","Are you going to go out?","Going to'dan sonra -ing gelmez."],
+["I'm gonna to call him.","I'm going to call him. / I'm gonna call him.","Gonna zaten 'going to' demektir; ikinci to eklenmez."]],
+"ex":[
+{"t":"choice","q":"Look at the sky! It ___ rain.","o":["will","is going to","goes to","is going"],"a":1,"e":"Şu anda görülen kanıt → going to."},
+{"t":"fill","q":"I ___ (start) a new course next month. (am going to biçimiyle)","a":["am going to start","'m going to start"],"e":"am + going to + V1."},
+{"t":"choice","q":"___ she going to join us tonight?","o":["Does","Do","Is","Will"],"a":2,"e":"She için is; soruda başa geçer."},
+{"t":"fill","q":"We ___ (not/travel) this summer. (kısaltma kullan)","a":["aren't going to travel","are not going to travel"],"e":"We + aren't going to + V1."},
+{"t":"tr","q":"Bu akşam yemek yapacağım.","a":["I'm going to cook dinner tonight","I am going to cook dinner tonight","I'm going to cook tonight","Tonight I'm going to cook dinner"],"e":"Plan → going to."},
+{"t":"choice","q":"Hangi cümle doğru?","o":["I going to call him.","I'm going call him.","I'm going to call him.","I'm go to call him."],"a":2,"e":"am + going to + V1."},
+{"t":"choice","q":"A: What are your plans? B: I ___ visit my parents.","o":["am going to","will to","go to","am go to"],"a":0,"e":"Önceden verilmiş plan → be going to."}],
+"advice":"Her akşam 'Tomorrow I'm going to...' diye başlayan üç plan cümlesi yaz. Sonra gün bittiğinde aynı cümlelere bak ve 'I did / I didn't' diye geçmişe çevir; böylece hem going to hem Past Simple tekrarlanır. Hava durumuna bakıp 'It's going to be cloudy' gibi belirti cümleleri kurmayı alışkanlık yap; bu, will ile arasındaki farkı en kolay oturtan alıştırmadır.",
+"related":["future-will","future-present-forms","present-continuous","past-simple"]
+}

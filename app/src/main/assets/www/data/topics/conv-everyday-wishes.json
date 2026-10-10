@@ -1,0 +1,41 @@
+{
+"id":"conv-everyday-wishes","tr":"Afiyet Olsun, Çok Yaşa, Geçmiş Olsun, Kolay Gelsin","en":"Everyday Wishes: Enjoy Your Meal, Bless You, Get Well Soon","level":"A2","cat":"daily-occasions","o":1,
+"short":"Türkçede çok kullanılan dilek kalıplarının bağlama göre doğal İngilizce karşılıkları.",
+"terms":["afiyet olsun","çok yaşa","geçmiş olsun","kolay gelsin","eline sağlık","enjoy your meal","bon appetit","bless you","gesundheit","get well soon","good luck with work","dilek kalıpları","hapşırınca ne denir","yemek öncesi","yemek sırasında","teşekkür ederim sana da","iyileşme dilekleri"],
+"why":"Türkçedeki 'Afiyet olsun', 'Çok yaşa', 'Geçmiş olsun' ve 'Kolay gelsin' gibi sıcak kalıpların İngilizcede tek bir birebir karşılığı yoktur. Bağlama göre farklı kalıplar kullanılır; doğrudan çevirmek anlamsız ya da garip duyulabilir.",
+"explain":[
+"Yemekle ilgili üç durum ayrılır: yemeğe başlarken ('Enjoy your meal!', 'Bon appétit!'), yemeği servis ederken ('Here you go. Enjoy!', 'Help yourself.') ve yemeği yapan kişiye teşekkür ederken ('This is delicious, thank you for cooking!'). Türkçedeki 'Afiyet olsun' bu üçüne birden denk gelir ama İngilizce her durumda başka kalıp ister.",
+"Hapşıran birine 'Bless you!' denir (ABD ve UK'de en yaygın). ABD'de bazen 'Gesundheit' (Almancadan) de duyulur. Cevap genellikle 'Thank you' olur; Türkçedeki 'Sen de gör' gibi bir karşılığı yoktur.",
+"'Geçmiş olsun' hastalık, kaza ya da kötü bir olaydan sonra söylenir; 'Get well soon' (iyileş) veya 'I hope you feel better soon' dersin. 'Kolay gelsin' için tek bir kalıp yoktur: 'Hope work goes well' ya da 'Good luck with the work' bağlama göre kullanılır; aynı mesajı vermenin doğal yolu 'How's work going?' gibi sohbet cümlesidir."],
+"phrases":[
+{"en":"Enjoy your meal! / Enjoy!","tr":"Afiyet olsun! (yemek öncesi / yemek servisi)","use":"Birine yemek verirken veya garsonun masaya servis yaparken.","reg":"nötr","ex":["Here's your pasta. Enjoy your meal!","İşte makarnanız. Afiyet olsun!"],"note":"Karşılık: 'Thank you, you too!' ya da sadece 'Thank you.' Kişiler birlikte yemek yiyorsa 'Enjoy!' demek yeterlidir."},
+{"en":"Bon appétit!","tr":"Afiyet olsun!","use":"Yemeğe başlamadan hemen önce.","reg":"nötr / biraz kibar","ex":["Dinner is ready. Bon appétit, everyone!","Yemek hazır. Afiyet olsun herkese!"],"note":"Fransızcadan alınmıştır, İngilizce konuşulan ülkelerde de yaygındır. Bazen biraz 'şık' duyulur."},
+{"en":"Help yourself. / Dig in!","tr":"Buyur, çekinme, al. / Haydi başlayalım!","use":"Misafire yemek ikram ederken.","reg":"samimi","ex":["There's plenty of food, so please help yourself.","Bol yemek var, lütfen kendi kendine servis yap."],"note":"'Dig in' çok samimi: 'Hadi daldık' tonu."},
+{"en":"This is delicious. Thank you for cooking!","tr":"Çok lezzetli olmuş. Eline sağlık!","use":"Yemeği yapana teşekkür etmek.","reg":"nötr / samimi","ex":["Everything was wonderful. Thank you for cooking!","Her şey harikaydı. Eline sağlık!"],"note":"'Health to your hands' gibi kelimesi kelimesine çeviri anlamsız olur."},
+{"en":"Bless you!","tr":"Çok yaşa!","use":"Biri hapşırdığında.","reg":"nötr","ex":["Achoo! — Bless you! — Thank you.","Hapşu! — Çok yaşa! — Teşekkürler."],"note":"ABD ve İngiltere'de en yaygın. 'Gesundheit' (Almanca, ABD'de bazen) aynı anlamdadır. Cevap: 'Thank you.'"},
+{"en":"Get well soon! / I hope you feel better soon.","tr":"Geçmiş olsun! / Umarım yakında daha iyi hissedersin.","use":"Hasta ya da kaza geçirmiş birine.","reg":"nötr / samimi","ex":["I heard you're ill. Get well soon!","Hasta olduğunu duydum. Geçmiş olsun!"],"note":"Hastalık dışı kötü olaylarda (araba kazası, kayıp) 'I'm sorry to hear that' daha uygundur."},
+{"en":"I'm sorry to hear that. / That must have been hard.","tr":"Buna üzüldüm. / Zor olmuş olmalı.","use":"Kötü haber, iş kaybı veya kaza duyduğunda.","reg":"nötr","ex":["I'm sorry to hear about your car. Are you okay?","Arabanı duyduğuma üzüldüm. İyi misin?"],"note":"Burada 'Geçmiş olsun' için 'Get well soon' kullanma; hastalık dışı durumda anlamsız olur."},
+{"en":"Good luck with work! / Hope work goes well. / Hang in there.","tr":"Kolay gelsin! (iş yaparken)","use":"Birinin işini bitirmeye çalıştığını görürken.","reg":"samimi / nötr","ex":["I know it's a busy day. Good luck with your work!","Yoğun bir gün olduğunu biliyorum. Kolay gelsin!"],"note":"İngilizcede tam eşi yoktur; bağlama göre 'Good luck with that' veya 'Hope it goes well' kullan. 'Good luck with that' bazen alaycı da duyulabilir, tona dikkat."}],
+"dialogs":[{"h":"Evde akşam yemeği","l":[
+["Mina","Dinner is ready! Please help yourself.","Yemek hazır! Lütfen kendin servis yap."],
+["Can","Wow, it smells amazing. Enjoy your meal, everyone!","Vay, nefis kokuyor. Afiyet olsun herkese!"],
+["Mina","Thank you, you too!","Teşekkürler, sana da!"],
+["Can","Achoo!","Hapşu!"],
+["Mina","Bless you!","Çok yaşa!"],
+["Can","Thanks. Mina, this is delicious. Thank you for cooking!","Sağ ol. Mina, bu çok lezzetli. Eline sağlık!"]]}],
+"compare":[["conv-occasions","Kutlama, yolculuk ve iyi dilekler ayrı bir kalıp grubudur."],["conv-thanks-apology","Dilekleri 'Thanks, you too' ile karşılarsın."]],
+"mistakes":[
+["Health to your hands.","This is delicious. Thank you for cooking!","Türkçe kalıp kelime kelime çevrilirse İngilizce konuşan anlamaz."],
+["Get well soon! (iş kaybı için)","I'm sorry to hear that.","Get well soon sadece hastalık ve yaralanmada."],
+["Live long! (hapşırana)","Bless you!","'Live long' İngilizcede bu amaçla kullanılmaz."],
+["Enjoy! (yemek yiyen herkese kendi kendine)","Enjoy your meal!","'Enjoy' kısaltmadır; Enjoy your meal daha tam ve nazik."]],
+"ex":[
+{"t":"choice","q":"Biri hapşırınca ne dersin?","o":["Bless you!","Get well soon!","Enjoy your meal!","Good luck!"],"a":0,"e":"Hapşırana Bless you."},
+{"t":"choice","q":"Misafire yemek servis ederken hangisi uygun?","o":["Here you go. Enjoy your meal!","Get well soon!","Good luck!","Sorry to hear that."],"a":0,"e":"Servis sırasında Enjoy your meal."},
+{"t":"choice","q":"Hasta arkadaşa ne dersin?","o":["Congratulations!","Get well soon!","Bon voyage!","Bless you!"],"a":1,"e":"Hastalık için Get well soon."},
+{"t":"tr","q":"Eline sağlık, çok lezzetli olmuş.","a":["This is delicious. Thank you for cooking","This is delicious, thank you for cooking","Thank you for cooking. This is delicious","Everything was delicious. Thank you for cooking"],"e":"Doğal karşılık: delicious + Thank you for cooking."},
+{"t":"choice","q":"Biri iş kaybını anlattı. Ne dersin?","o":["Get well soon!","I'm sorry to hear that.","Bless you!","Enjoy your meal!"],"a":1,"e":"Hastalık dışı kötü haber: I'm sorry to hear that."},
+{"t":"fill","q":"'Bless you!' denen kişi ne cevap verir? (iki kelime: Thank ___)","a":["you","Thank you"],"e":"Thank you."}],
+"advice":"Bu kalıpları durumlara göre bir tablo yap: yemek (Enjoy your meal, Help yourself, Thank you for cooking), sağlık (Bless you, Get well soon), iş (Good luck with work). Her durumun yanına Türkçedeki ifadeyi yaz ve 'tek karşılık' aramaktan vazgeç. Evde yemek yerken ya da biri hapşırdığında İngilizcesini içinden söylemeyi alışkanlık edin; bu, ezberi gerçek kullanıma çevirir.",
+"related":["conv-occasions","conv-thanks-apology","conv-greetings","conv-reactions"]
+}

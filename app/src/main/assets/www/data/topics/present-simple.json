@@ -1,0 +1,54 @@
+{
+"id":"present-simple","tr":"Geniş Zaman","en":"Present Simple","level":"A1","cat":"grammar-tenses","o":1,
+"short":"Rutinler, alışkanlıklar, genel doğrular; kendini ve işini anlatmak.",
+"terms":["geniş zaman","simple present","present simple","alışkanlık","rutin","her gün","genel doğrular","does","doesn't","do you","üçüncü tekil kişi","he she it","s takısı","sıklık zarfı","always usually often"],
+"why":"Kendini tanıtmak, rutinlerini anlatmak, işini ve yaşadığın yeri söylemek, genel bilgi vermek için en çok kullanılan zaman budur. Günlük sohbetlerin ve iş hayatındaki tanışmaların büyük kısmı bu zamanla kurulur.",
+"explain":[
+"Present Simple, 'şu anda' olan şeyi değil; düzenli tekrar eden ya da genel olarak doğru olan şeyi anlatır. Türkçedeki geniş zamanla (-ar/-er, -ır/-ir) büyük ölçüde örtüşür: 'Her sabah çay içerim.' = 'I drink tea every morning.'",
+"I, you, we, they ile fiil yalın halinde kalır. He, she, it ile fiilin sonuna -s/-es gelir. Olumsuz ve soru cümlelerinde yardımcı fiil do/does kullanılır ve ana fiil yalın kalır: 'Does she work?' (does works değil).",
+"To be (am/is/are) bu zamanda kendi başına çalışır; do/does almaz: 'She is a teacher.', 'Is she a teacher?'"],
+"formulas":[
+["Olumlu","I/You/We/They + V1  |  He/She/It + V1-s/-es"],
+["Olumsuz","I/You/We/They + don't + V1  |  He/She/It + doesn't + V1"],
+["Evet/hayır sorusu","Do + I/you/we/they + V1?  |  Does + he/she/it + V1?"],
+["Wh- sorusu","Wh- + do/does + özne + V1?"],
+["Kısa cevap","Yes, I do. / No, she doesn't."],
+["-s / -es kuralı","work → works · watch → watches · study → studies · go → goes · have → has"]],
+"uses":[
+{"h":"Alışkanlık ve rutinler","t":"Düzenli tekrar eden eylemler için.","ex":[["I get up at seven every day.","Her gün yedide kalkarım."],["She goes to the gym on Mondays.","Pazartesi günleri spor salonuna gider."]]},
+{"h":"Genel doğrular","t":"Değişmeyen bilgiler için.","ex":[["Water boils at 100 degrees Celsius.","Su 100 derecede kaynar."],["The shops in my town close at nine.","Kasabamdaki dükkânlar dokuzda kapanır."]]},
+{"h":"Yaşadığın yer, işin, sahip olduklarının","t":"Kalıcı veya uzun süreli durumlar için.","ex":[["I live in Bursa and I work in a hospital.","Bursa'da yaşıyorum ve bir hastanede çalışıyorum."]]},
+{"h":"Tarifeler ve programlar","t":"Önceden belirlenmiş saatler için (gelecek anlamı taşır).","ex":[["The train leaves at 8:15.","Tren 8.15'te kalkıyor."]]},
+{"h":"Sevmek, istemek, bilmek, anlamak","t":"Durum bildiren fiiller genelde Present Simple ile kullanılır.","ex":[["I like strong coffee.","Sert kahveyi severim."],["I don't understand this word.","Bu kelimeyi anlamıyorum."]]}],
+"forms":[
+{"h":"Olumlu","ex":[["We usually have lunch at work.","Genellikle öğle yemeğini işte yeriz."],["My brother works for a bank.","Kardeşim bir bankada çalışıyor."],["They play football every weekend.","Her hafta sonu futbol oynarlar."]]},
+{"h":"Olumsuz","ex":[["I don't drink coffee in the evening.","Akşamları kahve içmem."],["She doesn't eat meat.","O et yemez."],["He doesn't have a car.","Onun arabası yok."]]},
+{"h":"Evet/hayır soruları","ex":[["Do you speak English at work?","İşte İngilizce konuşuyor musun?"],["Does your sister live in Istanbul?","Kız kardeşin İstanbul'da mı yaşıyor?"]]},
+{"h":"Wh- soruları","ex":[["Where do you work?","Nerede çalışıyorsun?"],["What time does the bank open?","Banka kaçta açılıyor?"],["How often do you visit your parents?","Anne babanı ne sıklıkla ziyaret edersin?"]]},
+{"h":"Kısa cevaplar","ex":[["Do you like tea? — Yes, I do.","Çay sever misin? — Evet, severim."],["Does he work here? — No, he doesn't.","O burada mı çalışıyor? — Hayır, çalışmıyor."]]}],
+"words":["always — her zaman","usually — genellikle","often — sık sık","sometimes — bazen","rarely / seldom — nadiren","never — asla, hiç","every day / week / year — her gün / hafta / yıl","on Mondays — pazartesi günleri","once a week — haftada bir","in the morning — sabahları","Konum: sıklık zarfı, be fiilinden sonra; diğer fiillerden önce gelir (She is always late. / She always arrives late.)"],
+"dialogs":[{"h":"İş yerinde tanışma","l":[
+["Ayşe","Where do you work, Mark?","Nerede çalışıyorsun, Mark?"],
+["Mark","I work for a software company. What about you?","Bir yazılım şirketinde çalışıyorum. Ya sen?"],
+["Ayşe","I teach English at a language school.","Ben bir dil okulunda İngilizce öğretiyorum."],
+["Mark","Do you like it?","Seviyor musun?"],
+["Ayşe","Yes, I do. I meet new people every day.","Evet, seviyorum. Her gün yeni insanlarla tanışıyorum."]]}],
+"compare":[["present-continuous","Present Simple genel ve tekrar eden durumları, Present Continuous şu anda olan veya geçici durumları anlatır: 'I work in a bank' (mesleğim) / 'I'm working from home today' (bugünlük)."],["present-perfect","Present Simple şimdiki genel durumu söyler; Present Perfect geçmişle şimdi arasında bağ kurar."]],
+"mistakes":[
+["He work in a bank.","He works in a bank.","He/she/it ile fiile -s gelir. Türkçede kişi eki fiilin sonunda olduğu için bu -s'i unutmak çok yaygındır."],
+["Does she works here?","Does she work here?","Soruda does zaten -s'i taşır; ana fiil yalın kalır."],
+["I no like coffee.","I don't like coffee.","İngilizcede olumsuzluk 'no' ile değil don't/doesn't ile yapılır."],
+["I am work in Ankara.","I work in Ankara.","Geniş zamanda am/is/are ile yalın fiil birlikte kullanılmaz."],
+["She always is late.","She is always late.","Sıklık zarfı be fiilinden sonra gelir."]],
+"ex":[
+{"t":"choice","q":"She ___ to work by bus.","o":["go","goes","going","is go"],"a":1,"e":"She için fiile -es gelir: goes."},
+{"t":"fill","q":"My parents ___ (live) in Izmir.","a":["live"],"e":"My parents = they; fiil yalın kalır."},
+{"t":"fill","q":"He ___ spicy food. (not like) — kısaltma kullan","a":["doesn't like","does not like"],"e":"He için doesn't + yalın fiil."},
+{"t":"choice","q":"___ your brother play the guitar?","o":["Do","Does","Is","Are"],"a":1,"e":"Your brother = he; soruda Does kullanılır."},
+{"t":"choice","q":"I ___ coffee in the evening.","o":["don't drink","doesn't drink","not drink","am not drink"],"a":0,"e":"I ile don't + yalın fiil."},
+{"t":"tr","q":"Her sabah yürüyüşe çıkarım.","a":["I go for a walk every morning","Every morning I go for a walk","I take a walk every morning","Every morning I take a walk"],"e":"Rutin = Present Simple; 'every morning' zaman ifadesi."},
+{"t":"fill","q":"She ___ (study) at the library on weekdays.","a":["studies"],"e":"Sessiz harf + y → -ies."},
+{"t":"choice","q":"Hangi cümle doğru?","o":["She is always happy.","She always is happy.","She always happy.","She is happy always is."],"a":0,"e":"Sıklık zarfı be fiilinden sonra gelir."}],
+"advice":"Önce yalnızca he/she/it cümlelerine odaklan: ailenden ya da iş arkadaşlarından beş kişi seç ve her biri için bir rutin cümlesi kur (My sister works in a pharmacy...). -s'i otomatikleştirmenin en iyi yolu üçüncü kişiyi anlatmaktır. Sonra aynı cümleleri olumsuza ve soruya çevir. Günde sadece beş cümle yeter; sesli söyle ve ertesi gün bir kez daha tekrar et.",
+"related":["present-continuous","yes-no-questions","wh-questions","future-present-forms"]
+}

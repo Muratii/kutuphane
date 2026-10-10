@@ -1,0 +1,44 @@
+{
+"id":"conv-opinion-advice","tr":"Fikir, Katılma, Karşı Çıkma, Tercih ve Öneri","en":"Opinions, Agreeing, Disagreeing, Preferences and Suggestions","level":"A2","cat":"daily-ask","o":2,
+"short":"Bence..., katılıyorum, aynen öyle, fark etmez, tercih ederim, ne dersin, tavsiye vermek ve istemek.",
+"terms":["fikir belirtme","bence","katılıyorum","katılmıyorum","aynen öyle","fark etmez","tercih","öneri","tavsiye","tavsiye vermek","tavsiye istemek","bir şey önermek","in my opinion","I think","I agree","I disagree","exactly","I'd rather","I prefer","why don't we","how about","let's","should","you should","what do you think","what should I do","do you have any advice","I don't mind","it doesn't matter"],
+"why":"Bir sohbetin içinde kalmak için fikrini söylemek, karşı tarafla uzlaşmak veya nazikçe itiraz etmek gerekir. Doğru kalıpları bilmek hem iş toplantılarında hem arkadaş sohbetlerinde seni özgüvenli kılar.",
+"explain":[
+"Fikir belirtirken 'I think...', 'In my opinion...', 'To me...' kullanılır. İtiraz ederken doğrudan 'No, you're wrong' demek yerine 'I see your point, but...' gibi yumuşatıcı kalıplar tercih edilir.",
+"Tercih için 'I prefer A to B', 'I'd rather + V1' (yapmayı tercih ederim) ve 'I don't mind / It doesn't matter' (fark etmez) kullanılır.",
+"Öneri ve tavsiye: 'Why don't we...?', 'How about...?', 'Let's...' birlikte yapılacak öneriler içindir. 'You should...' ve 'Maybe you should...' tavsiye verir; 'What should I do?' tavsiye ister (bkz. Should)."],
+"phrases":[
+{"en":"I think... / In my opinion... / To be honest, ...","tr":"Bence... / Benim görüşüme göre... / Dürüst olmak gerekirse...","use":"Fikrini söylemek.","reg":"nötr","ex":["I think we should start earlier next time.","Bence bir dahaki sefere daha erken başlamalıyız."],"note":"'To be honest' samimi bir tonla başlar; resmî toplantıda 'In my opinion' daha uygun."},
+{"en":"I agree. / Exactly. / Absolutely. / That's true. / You're right.","tr":"Katılıyorum. / Aynen öyle. / Kesinlikle. / Doğru. / Haklısın.","use":"Karşı tarafa katılmak.","reg":"nötr / samimi","ex":["— This plan is too risky. — Exactly. I was thinking the same.","— Bu plan çok riskli. — Aynen öyle. Ben de aynısını düşünüyordum."],"note":"'Exactly' ve 'Absolutely' güçlü katılımı gösterir."},
+{"en":"I'm not sure about that. / I see your point, but... / I'm afraid I disagree.","tr":"Bundan pek emin değilim. / Ne demek istediğini anlıyorum ama... / Maalesef katılmıyorum.","use":"Nazikçe itiraz etmek.","reg":"nötr / resmî","ex":["I see your point, but I think the budget is too small.","Ne demek istediğini anlıyorum ama bence bütçe çok küçük."],"note":"'I'm afraid I disagree' resmî ve nazik; 'No way!' samimi ve sert."},
+{"en":"What do you think? / How do you feel about it?","tr":"Sen ne düşünüyorsun? / Bu konuda ne hissediyorsun?","use":"Başkasının fikrini sormak.","reg":"nötr","ex":["We could move the meeting to Friday. What do you think?","Toplantıyı cumaya alabiliriz. Ne dersin?"],"note":"'What do you think?' hem 'ne düşünüyorsun' hem 'ne dersin' anlamındadır."},
+{"en":"I prefer tea to coffee. / I'd rather stay home.","tr":"Çayı kahveye tercih ederim. / Evde kalmayı tercih ederim.","use":"Tercih belirtmek.","reg":"nötr","ex":["I'd rather walk than take the bus today.","Bugün otobüse binmektense yürümeyi tercih ederim."],"note":"I'd rather'dan sonra yalın fiil gelir: I'd rather go (to go değil)."},
+{"en":"I don't mind. / It doesn't matter. / Either is fine.","tr":"Fark etmez. / Bir sakıncası yok. / İkisi de olur.","use":"Seçimde kayıtsız olduğunu söylemek.","reg":"nötr / samimi","ex":["— Tea or coffee? — I don't mind. Either is fine.","— Çay mı kahve mi? — Fark etmez. İkisi de olur."],"note":"'I don't care' çoğu zaman kaba ya da umursamaz duyulur; 'I don't mind' daha nazik."},
+{"en":"Why don't we...? / How about...? / Let's...","tr":"...yapsak nasıl olur? / ...ne dersin? / Hadi...","use":"Birlikte yapılacak öneri sunmak.","reg":"samimi / nötr","ex":["Why don't we have lunch together tomorrow?","Yarın birlikte öğle yemeği yesek nasıl olur?"],"note":"'How about' sonrası isim ya da -ing gelir: How about a walk? / How about going for a walk?"},
+{"en":"You should... / Maybe you should... / If I were you, I'd...","tr":"...yapmalısın. / Belki ...yapmalısın. / Senin yerinde olsam ...yapardım.","use":"Tavsiye vermek.","reg":"nötr","ex":["You should talk to your manager about the schedule.","Müdürünle programı konuşmalısın."],"note":"Tavsiyeyi yumuşatmak için 'Maybe' ekle. 'You must' çok güçlü ve emir gibi duyulabilir."},
+{"en":"What should I do? / Do you have any advice? / What would you do?","tr":"Ne yapmalıyım? / Tavsiyen var mı? / Sen olsan ne yapardın?","use":"Tavsiye istemek.","reg":"nötr","ex":["I got two job offers. What should I do?","İki iş teklifi aldım. Ne yapmalıyım?"],"note":"'What would you do?' (senin yerinde ne yapardın) daha nazik ve içtendir."}],
+"dialogs":[{"h":"Akşam yemeği seçmek","l":[
+["Elif","Where should we eat tonight?","Bu akşam nerede yemek yemeliyiz?"],
+["Mert","I don't mind. What do you think?","Fark etmez. Sen ne dersin?"],
+["Elif","Why don't we try that new Italian place?","Şu yeni İtalyan restoranını denesek nasıl olur?"],
+["Mert","I'd rather have something light, to be honest.","Dürüst olmak gerekirse hafif bir şey yemeyi tercih ederim."],
+["Elif","Good point. How about the soup place near the park?","Güzel nokta. Parkın yanındaki çorbacıya ne dersin?"],
+["Mert","Exactly! Let's go there.","Aynen öyle! Hadi oraya gidelim."]]}],
+"compare":[["should","Tavsiye verirken kullanılan should'un dilbilgisi anlatımı."],["must","'You must' daha güçlü ve emir gibi duyulur; tavsiyede 'should' tercih edilir."]],
+"mistakes":[
+["I'm agree with you.","I agree with you.","Agree bir fiildir; be ile kullanılmaz."],
+["I don't care.","I don't mind.","'I don't care' umursamaz duyulabilir; nazik seçenek 'I don't mind'."],
+["I'd rather to go home.","I'd rather go home.","Would rather'dan sonra to gelmez."],
+["You must talk to your manager. (tavsiye için)","You should talk to your manager.","Must çok güçlüdür; tavsiye için should."],
+["How about go for a walk?","How about going for a walk?","How about'tan sonra isim veya -ing gelir."]],
+"ex":[
+{"t":"choice","q":"Biri sana 'Çay mı kahve mi?' diye sordu, fark etmiyor. En nazik cevap?","o":["I don't care.","I don't mind.","I no mind.","It's nothing."],"a":1,"e":"I don't mind: nazik kayıtsızlık."},
+{"t":"choice","q":"Hangisi birlikte yapılacak öneri sunar?","o":["I agree.","Why don't we go for a walk?","I'd rather stay.","Not at all."],"a":1,"e":"Why don't we...? öneri kalıbı."},
+{"t":"fill","q":"I'd rather ___ home than go out. (stay)","a":["stay"],"e":"Would rather + yalın fiil."},
+{"t":"choice","q":"Hangisi doğru?","o":["I'm agree with you.","I agree with you.","I agreed to you.","I am agreeing you."],"a":1,"e":"Agree: bir fiildir."},
+{"t":"tr","q":"Bence bir dahaki sefere daha erken başlamalıyız.","a":["I think we should start earlier next time","I think we should start earlier the next time","In my opinion we should start earlier next time"],"e":"I think + we should + V1."},
+{"t":"choice","q":"Nazikçe itiraz etmek için hangisi uygun?","o":["No way!","I see your point, but I'm not sure.","You are wrong.","That's stupid."],"a":1,"e":"I see your point, but... nazik itiraz."},
+{"t":"choice","q":"Tavsiye istemek için hangisi doğru?","o":["What should I do?","What do I should?","What I should do?","What am I should?"],"a":0,"e":"What should I do?"}],
+"advice":"Bir hafta boyunca haber, film ya da yemek hakkında kendi fikrini 'I think...' diye başlayan bir cümleyle söyle. Sonra aynı konuda biri sana zıt bir fikir söylemiş gibi 'I see your point, but...' ile cevap ver. Bu rol oyunu, nazik itirazı doğallaştırır. Tavsiye vermek için 'If I were you, I'd...' kalıbını da bir arkadaşına söylemiş gibi yüksek sesle tekrar et.",
+"related":["should","conv-requests","conv-reactions","conv-thanks-apology"]
+}
